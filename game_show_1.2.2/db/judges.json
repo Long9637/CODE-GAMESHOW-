@@ -1,0 +1,157 @@
+[
+  {
+    "id": "1728882400001",
+    "name": "Bùi Thị Bích Thủy",
+    "title": "Phó Chủ tịch Thường trực Liên đoàn Lao động tỉnh Đồng Nai",
+    "type": "main",
+    "image": "../images/judges/Bùi Thị Bích Thủy.jpg",
+    "extra_questions": [
+      {
+        "question": "Theo Bộ luật Lao động, độ tuổi lao động tối thiểu của người lao động là bao nhiêu?",
+        "answer_options": {
+          "A": "14 tuổi",
+          "B": "15 tuổi",
+          "C": "16 tuổi",
+          "D": "18 tuổi"
+        },
+        "correct_answer": "B",
+        "time": 60
+      },
+      {
+        "question": "Hành vi nào sau đây bị nghiêm cấm trong lĩnh vực lao động?",
+        "answer_options": {
+          "A": "Làm thêm giờ theo thỏa thuận",
+          "B": "Tạm hoãn hợp đồng lao động",
+          "C": "Quấy rối tình dục tại nơi làm việc",
+          "D": "Đào tạo nghề cho người lao động"
+        },
+        "correct_answer": "C",
+        "time": 60
+      }
+    ]
+  },
+  {
+    "id": "1728882400002",
+    "name": "Hoàng Thị Minh Mỹ",
+    "title": "Trưởng khoa Mỹ thuật ứng dụng trường Cao đẳng Mỹ Thuật Trang trí Đồng Nai",
+    "type": "sub",
+    "image": "../images/judges/Hoàng Thị Minh Mỹ.jpg",
+    "extra_questions": [
+      {
+        "question": "Người lao động nữ được nghỉ thai sản trước và sau khi sinh con tổng cộng là bao nhiêu tháng?",
+        "answer_options": {
+          "A": "4 tháng",
+          "B": "5 tháng",
+          "C": "6 tháng",
+          "D": "7 tháng"
+        },
+        "correct_answer": "C",
+        "time": 60
+      },
+      {
+        "question": "Mục tiêu chính của Luật An toàn, vệ sinh lao động là gì?",
+        "answer_options": {
+          "A": "Bảo vệ tài sản của doanh nghiệp",
+          "B": "Tăng năng suất lao động",
+          "C": "Bảo đảm an toàn và sức khỏe cho người lao động",
+          "D": "Giảm chi phí sản xuất cho doanh nghiệp"
+        },
+        "correct_answer": "C",
+        "time": 60
+      }
+    ]
+  },
+  {
+    "id": "1728882400003",
+    "name": "Tạ Linh Nhân",
+    "title": "Tổng Giám đốc Công ty Thời trang Dorii, Ủy Viên Ban Thường Cụ Hiệp hội Áo dài TP. HCM",
+    "type": "main",
+    "image": "../images/judges/Tạ Linh Nhân.jpg",
+    "extra_questions": [
+      {
+        "question": "Theo Luật Bình đẳng giới, hành vi nào sau đây bị nghiêm cấm?",
+        "answer_options": {
+          "A": "Ưu tiên tuyển dụng lao động nữ",
+          "B": "Bạo lực trên cơ sở giới",
+          "C": "Tạo điều kiện cho nam giới nghỉ chăm sóc con",
+          "D": "Tổ chức các hoạt động cho phụ nữ"
+        },
+        "correct_answer": "B",
+        "time": 60
+      },
+      {
+        "question": "Tháng hành động quốc gia phòng, chống bạo lực gia đình là tháng nào trong năm?",
+        "answer_options": {
+          "A": "Tháng 3",
+          "B": "Tháng 6",
+          "C": "Tháng 10",
+          "D": "Tháng 11"
+        },
+        "correct_answer": "B",
+        "time": 60
+      }
+    ]
+  },
+  {
+    "id": "1728882400004",
+    "name": "Lâm Đại",
+    "title": "Biên đạo múa",
+    "type": "sub",
+    "image": "../images/judges/Lam Dai.jpg",
+    "extra_questions": [
+      {
+        "question": "Theo Luật BHXH 2024, tỷ lệ đóng BHXH tự nguyện hàng tháng là bao nhiêu?",
+        "answer_options": {
+          "A": "20% thu nhập",
+          "B": "22% thu nhập",
+          "C": "24% thu nhập",
+          "D": "25% thu nhập"
+        },
+        "correct_answer": "B",
+        "time": 60
+      },
+      {
+        "question": "Thời gian nghỉ việc hưởng chế độ thai sản đối với lao động nam khi vợ sinh con phải phẫu thuật là bao nhiêu ngày?",
+        "answer_options": {
+          "A": "5 ngày",
+          "B": "7 ngày làm việc",
+          "C": "10 ngày",
+          "D": "14 ngày làm việc"
+        },
+        "correct_answer": "B",
+        "time": 60
+      }
+    ]
+  },
+  {
+    "id": "1728882400005",
+    "name": "Huỳnh Phan Như Ngọc",
+    "title": "Giảng viên",
+    "type": "sub",
+    "image": "../images/judges/Huỳnh Phan Như Ngọc.jpg",
+    "extra_questions": [
+      {
+        "question": "Người tham gia BHXH tự nguyện yêu cầu thời gian đóng tối thiểu bao nhiêu năm để hưởng chế độ hưu trí?",
+        "answer_options": {
+          "A": "10 năm",
+          "B": "15 năm",
+          "C": "20 năm",
+          "D": "25 năm"
+        },
+        "correct_answer": "B",
+        "time": 60
+      },
+      {
+        "question": "Trách nhiệm chi trả chi phí điều trị tai nạn lao động thuộc về ai?",
+        "answer_options": {
+          "A": "Người lao động tự chi trả",
+          "B": "Cơ quan Bảo hiểm xã hội",
+          "C": "Nhà nước",
+          "D": "Người sử dụng lao động"
+        },
+        "correct_answer": "D",
+        "time": 60
+      }
+    ]
+  }
+]

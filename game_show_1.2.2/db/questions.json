@@ -1,0 +1,1802 @@
+[
+  {
+    "part": 1,
+    "question": "Những hành vi nào bị nghiêm cấm trong lĩnh vực lao động ?",
+    "answer_options": {
+      "A": "Phân biệt đối xử trong lao động.",
+      "B": "Ngược đãi người lao động, cưỡng bức lao động.",
+      "C": "Quấy rối tình dục tại nơi làm việc.",
+      "D": "Tất cả đáp án trên",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Phân biệt đối xử trong lao động.\nB: Ngược đãi người lao động, cưỡng bức lao động.\nC: Quấy rối tình dục tại nơi làm việc.\nD: Tất cả đáp án trên\n\nĐáp án đúng: D",
+    "id": "csv_1",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Hợp đồng lao động phải có những nội dung gì ?",
+    "answer_options": {
+      "A": "Tên, địa chỉ của người sử dụng lao động và họ tên, chức danh của người giao kết hợp đồng lao động bên phía người sử dụng lao động;",
+      "B": "Họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, số thẻ Căn cước công dân, Chứng minh nhân nhân hoặc hộ chiếu của người giao kết hợp đồng lao động bên phía người lao động;",
+      "C": "Công việc và địa điểm làm việc;",
+      "D": "Tất cả đáp án trên",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Tên, địa chỉ của người sử dụng lao động và họ tên, chức danh của người giao kết hợp đồng lao động bên phía người sử dụng lao động;\nB: Họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, số thẻ Căn cước công dân, Chứng minh nhân nhân hoặc hộ chiếu của người giao kết hợp đồng lao động bên phía người lao động;\nC: Công việc và địa điểm làm việc;\nD: Tất cả đáp án trên\n\nĐáp án đúng: D",
+    "id": "csv_2",
+    "time": 15
+  },
+  {
+    "part": 1,
+    "question": "Những quy định về Hợp đồng lao động ?",
+    "answer_options": {
+      "A": "Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động về việc làm có trả công, tiền lương, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động. Trường hợp hai bên thỏa thuận bằng tên gọi khác nhưng có nội dung thể hiện về việc làm có trả công, tiền lương và sự quản lý, điều hành, giám sát của một bên thì được coi là hợp đồng lao động.",
+      "B": "Trước khi nhận người lao động vào làm việc thì người sử dụng lao động phải giao kết hợp đồng lao động với người lao động.",
+      "C": "Cả 2 đáp án trên",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động về việc làm có trả công, tiền lương, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động. Trường hợp hai bên thỏa thuận bằng tên gọi khác nhưng có nội dung thể hiện về việc làm có trả công, tiền lương và sự quản lý, điều hành, giám sát của một bên thì được coi là hợp đồng lao động.\nB: Trước khi nhận người lao động vào làm việc thì người sử dụng lao động phải giao kết hợp đồng lao động với người lao động.\nC: Cả 2 đáp án trên\n\nĐáp án đúng: C",
+    "id": "csv_3",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Theo bộ luật lao động 2019, cưỡng bước lao động là gì?",
+    "answer_options": {
+      "A": "Việc dùng vũ lực, đe dọa dùng vuc lực hoặc các thủ đoạn khác để ép buộc NLĐ phải làm việc trái ý muốn của họ.",
+      "B": "Việc dùng vũ lực để ép buộc NLĐ phải làm việc trái ý muốn của họ",
+      "C": "Việc dùng đe dọa dùng vũ lực để ép buộc NLĐ phải làm việc trái ý muốn của họ",
+      "D": "Việc ép buộc NLĐ phải làm việc trái ý muốn của họ",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Việc dùng vũ lực, đe dọa dùng vuc lực hoặc các thủ đoạn khác để ép buộc NLĐ phải làm việc trái ý muốn của họ.\nB: Việc dùng vũ lực để ép buộc NLĐ phải làm việc trái ý muốn của họ\nC: Việc dùng đe dọa dùng vũ lực để ép buộc NLĐ phải làm việc trái ý muốn của họ\nD: Việc ép buộc NLĐ phải làm việc trái ý muốn của họ\n\nĐáp án đúng: A",
+    "id": "csv_4",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Theo bộ luật lao động 2019, quấy rối tình dục tại nơi làm việc là:",
+    "answer_options": {
+      "A": "Là hành vi có tính chất tình dục của bất kỳ người nào đối với người khác tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận",
+      "B": "Là hành vi có tính chất tình dục của NSDLĐ đối với người khác tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận",
+      "C": "Là hành vi có tính chất tình dục của NLĐ đối với người khác tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận",
+      "D": "Là hành vi có tính chất tình dục của NSDLĐ đối với NLĐ tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Là hành vi có tính chất tình dục của bất kỳ người nào đối với người khác tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận\nB: Là hành vi có tính chất tình dục của NSDLĐ đối với người khác tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận\nC: Là hành vi có tính chất tình dục của NLĐ đối với người khác tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận\nD: Là hành vi có tính chất tình dục của NSDLĐ đối với NLĐ tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận\n\nĐáp án đúng: A",
+    "id": "csv_5",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Những quy định về thời giờ làm việc của người chưa thành niên bao gồm những nội dung gì ?",
+    "answer_options": {
+      "A": "Thời giờ làm việc của người chưa đủ 15 tuổi không được quá 04 giờ trong 01 ngày và 20 giờ trong 01 tuần; không được làm thêm giờ, làm việc vào ban đêm.",
+      "B": "Thời giờ làm việc của người từ đủ 15 tuổi đến chưa đủ 18 tuổi không được quá 08 giờ trong 01 ngày và 40 giờ trong 01 tuần. Người từ đủ 15 tuổi đến chưa đủ 18 tuổi có thể được làm thêm giờ, làm việc vào ban đêm trong một số nghề, công việc theo danh mục do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành.",
+      "C": "Cả 2 đáp án trên",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Thời giờ làm việc của người chưa đủ 15 tuổi không được quá 04 giờ trong 01 ngày và 20 giờ trong 01 tuần; không được làm thêm giờ, làm việc vào ban đêm.\nB: Thời giờ làm việc của người từ đủ 15 tuổi đến chưa đủ 18 tuổi không được quá 08 giờ trong 01 ngày và 40 giờ trong 01 tuần. Người từ đủ 15 tuổi đến chưa đủ 18 tuổi có thể được làm thêm giờ, làm việc vào ban đêm trong một số nghề, công việc theo danh mục do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành.\nC: Cả 2 đáp án trên\n\nĐáp án đúng: C",
+    "id": "csv_6",
+    "time": 100
+  },
+  {
+    "part": 1,
+    "question": "Thời gian thử việc đối với NLĐ có trình độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ cụ thể như thế nào ?",
+    "answer_options": {
+      "A": "Không quá 180 ngày",
+      "B": "Không quá 60 ngày",
+      "C": "Không quá 30 ngày",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Không quá 180 ngày\nB: Không quá 60 ngày\nC: Không quá 30 ngày\n\nĐáp án đúng: C",
+    "id": "csv_7",
+    "time": 140
+  },
+  {
+    "part": 1,
+    "question": "Bộ luật Lao động 2019 điều chỉnh những nội dung nào sau đây?",
+    "answer_options": {
+      "A": "Quyền và nghĩa vụ của người lao động và người sử dụng lao động.",
+      "B": "Tiêu chuẩn lao động.",
+      "C": "Quản lý nhà nước về lao động.",
+      "D": "Tất cả các nội dung trên.",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Quyền và nghĩa vụ của người lao động và người sử dụng lao động.\nB: Tiêu chuẩn lao động.\nC: Quản lý nhà nước về lao động.\nD: Tất cả các nội dung trên.\n\nĐáp án đúng: D",
+    "id": "csv_8",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Ai là đối tượng áp dụng của Bộ luật Lao động?",
+    "answer_options": {
+      "A": "Người lao động.",
+      "B": "Người sử dụng lao động.",
+      "C": "Người lao động nước ngoài làm việc tại Việt Nam.",
+      "D": "Tất cả các đối tượng trên .",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Người lao động.\nB: Người sử dụng lao động.\nC: Người lao động nước ngoài làm việc tại Việt Nam.\nD: Tất cả các đối tượng trên .\n\nĐáp án đúng: D",
+    "id": "csv_9",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Người lao động là ai theo Bộ luật Lao động?",
+    "answer_options": {
+      "A": "Người làm việc không có trả công.",
+      "B": "Người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương.",
+      "C": "Người làm việc theo lệnh của người sử dụng lao động mà không cần hợp đồng.",
+      "D": "Người tham gia công việc tình nguyện.",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Người làm việc không có trả công.\nB: Người làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương.\nC: Người làm việc theo lệnh của người sử dụng lao động mà không cần hợp đồng.\nD: Người tham gia công việc tình nguyện.\n\nĐáp án đúng: B",
+    "id": "csv_10",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Độ tuổi lao động tối thiểu của người lao động là bao nhiêu?",
+    "answer_options": {
+      "A": "14 tuổi.",
+      "B": "15 tuổi.",
+      "C": "16 tuổi.",
+      "D": "18 tuổi.",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: 14 tuổi.\nB: 15 tuổi.\nC: 16 tuổi.\nD: 18 tuổi.\n\nĐáp án đúng: B",
+    "id": "csv_11",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Phân biệt đối xử trong lao động là gì?",
+    "answer_options": {
+      "A": "Hành vi đối xử khác biệt dựa trên cơ sở giới tính, tôn giáo, tín ngưỡng.",
+      "B": "Hành vi ưu tiên người lao động có trách nhiệm gia đình.",
+      "C": "Hành vi từ chối lao động không đủ sức khỏe.",
+      "D": "Hành vi bảo vệ lao động dễ bị tổn thương.",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Hành vi đối xử khác biệt dựa trên cơ sở giới tính, tôn giáo, tín ngưỡng.\nB: Hành vi ưu tiên người lao động có trách nhiệm gia đình.\nC: Hành vi từ chối lao động không đủ sức khỏe.\nD: Hành vi bảo vệ lao động dễ bị tổn thương.\n\nĐáp án đúng: A",
+    "id": "csv_12",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Cưỡng bức lao động được hiểu là gì?",
+    "answer_options": {
+      "A": "Sử dụng lao động theo hợp đồng lao động.",
+      "B": "Dùng vũ lực hoặc thủ đoạn khác để ép buộc làm việc trái ý muốn.",
+      "C": "Yêu cầu làm thêm giờ theo quy định pháp luật.",
+      "D": "Bố trí công việc không đúng hợp đồng lao động.",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Sử dụng lao động theo hợp đồng lao động.\nB: Dùng vũ lực hoặc thủ đoạn khác để ép buộc làm việc trái ý muốn.\nC: Yêu cầu làm thêm giờ theo quy định pháp luật.\nD: Bố trí công việc không đúng hợp đồng lao động.\n\nĐáp án đúng: B",
+    "id": "csv_13",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Chính sách nào dưới đây không thuộc chính sách của Nhà nước về lao động?",
+    "answer_options": {
+      "A": "Bảo đảm quyền và lợi ích hợp pháp của người lao động.",
+      "B": "Phát triển, phân bố nguồn nhân lực.",
+      "C": "Phát triển thị trường lao động.",
+      "D": "Cấm lao động nữ làm công việc nặng nhọc.",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Bảo đảm quyền và lợi ích hợp pháp của người lao động.\nB: Phát triển, phân bố nguồn nhân lực.\nC: Phát triển thị trường lao động.\nD: Cấm lao động nữ làm công việc nặng nhọc.\n\nĐáp án đúng: D",
+    "id": "csv_14",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Người lao động có quyền nào sau đây?",
+    "answer_options": {
+      "A": "Làm việc trong môi trường an toàn, vệ sinh lao động.",
+      "B": "Từ chối làm việc nếu có nguy cơ ảnh hưởng sức khỏe.",
+      "C": "Thành lập, gia nhập tổ chức đại diện.",
+      "D": "Tất cả các quyền trên.",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Làm việc trong môi trường an toàn, vệ sinh lao động.\nB: Từ chối làm việc nếu có nguy cơ ảnh hưởng sức khỏe.\nC: Thành lập, gia nhập tổ chức đại diện.\nD: Tất cả các quyền trên.\n\nĐáp án đúng: D",
+    "id": "csv_15",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Người sử dụng lao động có nghĩa vụ nào sau đây?",
+    "answer_options": {
+      "A": "Đào tạo, nâng cao trình độ nghề cho người lao động.",
+      "B": "Đảm bảo quyền lợi về bảo hiểm xã hội.",
+      "C": "Tôn trọng danh dự, nhân phẩm của người lao động.",
+      "D": "Tất cả các nghĩa vụ trên.",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Đào tạo, nâng cao trình độ nghề cho người lao động.\nB: Đảm bảo quyền lợi về bảo hiểm xã hội.\nC: Tôn trọng danh dự, nhân phẩm của người lao động.\nD: Tất cả các nghĩa vụ trên.\n\nĐáp án đúng: D",
+    "id": "csv_16",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Các hành vi nào bị nghiêm cấm trong lĩnh vực lao động?",
+    "answer_options": {
+      "A": "Quấy rối tình dục tại nơi làm việc.",
+      "B": "Phân biệt đối xử trong lao động.",
+      "C": "Ngược đãi, cưỡng bức lao động.",
+      "D": "Tất cả các hành vi trên.",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Quấy rối tình dục tại nơi làm việc.\nB: Phân biệt đối xử trong lao động.\nC: Ngược đãi, cưỡng bức lao động.\nD: Tất cả các hành vi trên.\n\nĐáp án đúng: D",
+    "id": "csv_17",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Hình thức xử lý kỷ luật lao động bao gồm?",
+    "answer_options": {
+      "A": "Khiển trách; Kéo dài thời hạn nâng lương không quá 06 tháng; Cách chức; Sa thải",
+      "B": "Khiển trách; Cảnh cáo; Kéo dài thời hạn nâng lương không quá 06 tháng; Cách chức; Sa thải",
+      "C": "Khiển trách; Kéo dài thời hạn nâng lương không quá 06 tháng; Cách chức; Buộc thôi việc; Sa thải",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Khiển trách; Kéo dài thời hạn nâng lương không quá 06 tháng; Cách chức; Sa thải\nB: Khiển trách; Cảnh cáo; Kéo dài thời hạn nâng lương không quá 06 tháng; Cách chức; Sa thải\nC: Khiển trách; Kéo dài thời hạn nâng lương không quá 06 tháng; Cách chức; Buộc thôi việc; Sa thải\n\nĐáp án đúng: A",
+    "id": "csv_18",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Người lao động có hành vi đánh bạc tại nơi làm việc thì bị hình thức kỷ luật nào?",
+    "answer_options": {
+      "A": "Khiển trách",
+      "B": "Kéo dài thời hạn nâng lương không quá 06 tháng",
+      "C": "Sa thải",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Khiển trách\nB: Kéo dài thời hạn nâng lương không quá 06 tháng\nC: Sa thải\n\nĐáp án đúng: C",
+    "id": "csv_19",
+    "time": 90
+  },
+  {
+    "part": 1,
+    "question": "Lao động nữ được nghỉ thai sản trước và sau khi sinh con là bao nhiêu tháng?",
+    "answer_options": {
+      "A": "04 tháng",
+      "B": "05 tháng",
+      "C": "06 tháng",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: 04 tháng\nB: 05 tháng\nC: 06 tháng\n\nĐáp án đúng: C",
+    "id": "csv_20",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Không được đình công ở nơi sử dụng lao động trong trường hợp nào?",
+    "answer_options": {
+      "A": "việc đình công có thể đe dọa đến quốc phòng, an ninh, trật tự công cộng",
+      "B": "việc đình công có thể đe dọa đến quốc phòng, an ninh, sức khỏe của con người",
+      "C": "việc đình công có thể đe dọa đến quốc phòng, an ninh, trật tự công cộng, sức khỏe của con người",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: việc đình công có thể đe dọa đến quốc phòng, an ninh, trật tự công cộng\nB: việc đình công có thể đe dọa đến quốc phòng, an ninh, sức khỏe của con người\nC: việc đình công có thể đe dọa đến quốc phòng, an ninh, trật tự công cộng, sức khỏe của con người\n\nĐáp án đúng: C",
+    "id": "csv_21",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Đâu không phải là hợp đồng lao động theo quy định của pháp luật lao động?",
+    "answer_options": {
+      "A": "Hợp đồng lao động thời vụ",
+      "B": "Hợp đồng lao động không xác định thời hạn",
+      "C": "Hợp đồng lao động xác định thời hạn",
+      "D": "Cả 3 đáp án trên đều sai",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Hợp đồng lao động thời vụ\nB: Hợp đồng lao động không xác định thời hạn\nC: Hợp đồng lao động xác định thời hạn\nD: Cả 3 đáp án trên đều sai\n\nĐáp án đúng: D",
+    "id": "csv_22",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Người lao động nữ có quyền được nghỉ bao nhiêu ngày khi hành kinh theo quy định của Bộ luật Lao động 2019?",
+    "answer_options": {
+      "A": "Cộng dồn tối đa 01 ngày/tháng",
+      "B": "2 ngày/tháng",
+      "C": "3 ngày/tháng",
+      "D": "Không có quy định",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Cộng dồn tối đa 01 ngày/tháng\nB: 2 ngày/tháng\nC: 3 ngày/tháng\nD: Không có quy định\n\nĐáp án đúng: C",
+    "id": "csv_23",
+    "time": 110
+  },
+  {
+    "part": 1,
+    "question": "Mục đích của đối thoại tại nơi làm việc là gì ?",
+    "answer_options": {
+      "A": "Đối thoại tại nơi làm việc nhằm chia sẻ thông tin, tăng cường sự hiểu biết giữa người sử dụng lao động và người lao động để xây dựng quan hệ lao động tại nơi làm việc.",
+      "B": "Đối thoại tại nơi làm việc nhằm bảo đảm việc thực hiện quy chế dân chủ ở cơ sở.",
+      "C": "Đối thoại tại nơi làm việc nhằm thực hiện quy chế dân chủ ở cơ sở và xây dựng quan hệ lao động tại nơi làm việc.",
+      "D": "Chia sẻ thông tin, tham khảo, thảo luận, trao đổi ý kiến về những vấn đề liên quan đến quyền, lợi ích và mối quan tâm của các bên tại nơi làm việc nhằm tăng cường sự hiểu biết, hợp tác, cùng nổ lực hướng tới giải pháp các bên cùng có lợi.",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Đối thoại tại nơi làm việc nhằm chia sẻ thông tin, tăng cường sự hiểu biết giữa người sử dụng lao động và người lao động để xây dựng quan hệ lao động tại nơi làm việc.\nB: Đối thoại tại nơi làm việc nhằm bảo đảm việc thực hiện quy chế dân chủ ở cơ sở.\nC: Đối thoại tại nơi làm việc nhằm thực hiện quy chế dân chủ ở cơ sở và xây dựng quan hệ lao động tại nơi làm việc.\nD: Chia sẻ thông tin, tham khảo, thảo luận, trao đổi ý kiến về những vấn đề liên quan đến quyền, lợi ích và mối quan tâm của các bên tại nơi làm việc nhằm tăng cường sự hiểu biết, hợp tác, cùng nổ lực hướng tới giải pháp các bên cùng có lợi.\n\nĐáp án đúng: D",
+    "id": "csv_24",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Người sử dụng lao động phải tổ chức đối thoại tại nơi làm việc trong những trường hợp nào ?",
+    "answer_options": {
+      "A": "Định kỳ ít nhất 01 năm một lần;",
+      "B": "Khi có yêu cầu của một hoặc các bên;",
+      "C": "Khi có vụ việc quy định tại điểm a khoản 1 Điều 36; Điều 42; Điều 44; Điều 93, Điều 104; Điều 118; Điều 128.",
+      "D": "Tất cả các nội dung trên",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Định kỳ ít nhất 01 năm một lần;\nB: Khi có yêu cầu của một hoặc các bên;\nC: Khi có vụ việc quy định tại điểm a khoản 1 Điều 36; Điều 42; Điều 44; Điều 93, Điều 104; Điều 118; Điều 128.\nD: Tất cả các nội dung trên\n\nĐáp án đúng: D",
+    "id": "csv_25",
+    "time": 100
+  },
+  {
+    "part": 1,
+    "question": "Thương lượng tập thể không thành trong những trường hợp nào?",
+    "answer_options": {
+      "A": "Một bên từ chối thương lượng hoặc không tiến hành thương lượng trong thời hạn quy định.",
+      "B": "Đã hết thời hạn quy định về thời gian thương lượng tập thể mà các bên không đạt được thỏa thuận.",
+      "C": "Chưa hết thời hạn quy định về thời gian thương lượng tập thể nhưng các bên cùng xác định và tuyên bố về việc thương lượng tập thể không đạt được thỏa thuận.",
+      "D": "Tất cả các nội dung trên",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Một bên từ chối thương lượng hoặc không tiến hành thương lượng trong thời hạn quy định.\nB: Đã hết thời hạn quy định về thời gian thương lượng tập thể mà các bên không đạt được thỏa thuận.\nC: Chưa hết thời hạn quy định về thời gian thương lượng tập thể nhưng các bên cùng xác định và tuyên bố về việc thương lượng tập thể không đạt được thỏa thuận.\nD: Tất cả các nội dung trên\n\nĐáp án đúng: D",
+    "id": "csv_26",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Những hành vi nào bị cấm khi xử lý kỷ luật lao động?",
+    "answer_options": {
+      "A": "Xâm phạm sức khỏe, danh dự, tính mạng, uy tín, nhân phẩm của người lao động.",
+      "B": "Phạt tiền, cắt lương thay việc xử lý kỷ luật lao động.",
+      "C": "Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm không được quy định trong nội quy lao động hoặc không thỏa thuận trong hợp đồng lao động đã giao kết hoặc pháp luật về lao động không có quy định.",
+      "D": "Tất cả các nội dung trên",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Xâm phạm sức khỏe, danh dự, tính mạng, uy tín, nhân phẩm của người lao động.\nB: Phạt tiền, cắt lương thay việc xử lý kỷ luật lao động.\nC: Xử lý kỷ luật lao động đối với người lao động có hành vi vi phạm không được quy định trong nội quy lao động hoặc không thỏa thuận trong hợp đồng lao động đã giao kết hoặc pháp luật về lao động không có quy định.\nD: Tất cả các nội dung trên\n\nĐáp án đúng: D",
+    "id": "csv_27",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Trong những quyền sau đây, trường hợp nào không phải là quyền của NLĐ?",
+    "answer_options": {
+      "A": "Đơn phương chấm dứt hợp đồng lao động",
+      "B": "Phải làm việc dù có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong quá trình thực hiện công việc",
+      "C": "Đình công",
+      "D": "Thành lập, gia nhập, hoạt động trong tổ chức đại diện NLĐ, tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Đơn phương chấm dứt hợp đồng lao động\nB: Phải làm việc dù có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong quá trình thực hiện công việc\nC: Đình công\nD: Thành lập, gia nhập, hoạt động trong tổ chức đại diện NLĐ, tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật\n\nĐáp án đúng: B",
+    "id": "csv_28",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Sự kiện pháp lý nào sau đây làm chấm dứt quan hệ pháp luật về sử dụng lao động?",
+    "answer_options": {
+      "A": "NLĐ tạm hoãn hợp đồng lao động",
+      "B": "NLĐ nghỉ chế độ thai sản",
+      "C": "NSDLĐ chuyển NLĐ sang làm công việc khác so với hợp đồng lao động",
+      "D": "Hết hạn hợp đồng lao động",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: NLĐ tạm hoãn hợp đồng lao động\nB: NLĐ nghỉ chế độ thai sản\nC: NSDLĐ chuyển NLĐ sang làm công việc khác so với hợp đồng lao động\nD: Hết hạn hợp đồng lao động\n\nĐáp án đúng: D",
+    "id": "csv_29",
+    "time": 90
+  },
+  {
+    "part": 1,
+    "question": "Mức thời gian thử việc nào sau đây không đúng",
+    "answer_options": {
+      "A": "Không quá 60 ngày đối với công việc có chức danh nghề cần trình độ chuyên môn, kỹ thuật cao đẳng trở lên",
+      "B": "Không quá 30 ngày đối với công việc có chức danh nghề cần trình độ chuyên môn kỹ thuật trung cấp nghề, trung cấp chuyên nghiệp, công nhân kỹ thuật, nvien nghiệp vụ",
+      "C": "Không quá 6 ngày làm việc đối với công việc không cần thông qua đào tạo",
+      "D": "Bằng 60 ngày , 30 ngày hoặc 6 ngày làm việc tuy theo trình độ của NLĐ",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Không quá 60 ngày đối với công việc có chức danh nghề cần trình độ chuyên môn, kỹ thuật cao đẳng trở lên\nB: Không quá 30 ngày đối với công việc có chức danh nghề cần trình độ chuyên môn kỹ thuật trung cấp nghề, trung cấp chuyên nghiệp, công nhân kỹ thuật, nvien nghiệp vụ\nC: Không quá 6 ngày làm việc đối với công việc không cần thông qua đào tạo\nD: Bằng 60 ngày , 30 ngày hoặc 6 ngày làm việc tuy theo trình độ của NLĐ\n\nĐáp án đúng: D",
+    "id": "csv_30",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Mục tiêu chính của Luật An toàn, vệ sinh lao động là:",
+    "answer_options": {
+      "A": "Bảo vệ tài sản doanh nghiệp",
+      "B": "Nâng cao năng suất lao động",
+      "C": "Bảo đảm an toàn, sức khỏe người lao động",
+      "D": "Giảm chi phí sản xuất",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Bảo vệ tài sản doanh nghiệp\nB: Nâng cao năng suất lao động\nC: Bảo đảm an toàn, sức khỏe người lao động\nD: Giảm chi phí sản xuất\n\nĐáp án đúng: C",
+    "id": "csv_31",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Người sử dụng lao động có trách nhiệm nào sau đây?",
+    "answer_options": {
+      "A": "Bắt người lao động tự mua bảo hộ",
+      "B": "Tự xây dựng nội quy lao động",
+      "C": "Huấn luyện ATVSLĐ cho người lao động",
+      "D": "Không cần quan tâm nếu không có tai nạn",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Bắt người lao động tự mua bảo hộ\nB: Tự xây dựng nội quy lao động\nC: Huấn luyện ATVSLĐ cho người lao động\nD: Không cần quan tâm nếu không có tai nạn\n\nĐáp án đúng: C",
+    "id": "csv_32",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Người lao động có quyền nào sau đây?",
+    "answer_options": {
+      "A": "Từ chối làm việc khi thấy nguy cơ mất an toàn",
+      "B": "Tự ý thay đổi nội quy lao động",
+      "C": "Không tham gia huấn luyện",
+      "D": "Làm việc bất chấp nguy hiểm",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Từ chối làm việc khi thấy nguy cơ mất an toàn\nB: Tự ý thay đổi nội quy lao động\nC: Không tham gia huấn luyện\nD: Làm việc bất chấp nguy hiểm\n\nĐáp án đúng: A",
+    "id": "csv_33",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Tai nạn lao động là tai nạn xảy ra:",
+    "answer_options": {
+      "A": "Trên đường đi chơi",
+      "B": "Trong giờ nghỉ trưa tại nhà",
+      "C": "Trong quá trình làm việc, gắn với lao động",
+      "D": "Khi ngủ tại nơi làm việc",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Trên đường đi chơi\nB: Trong giờ nghỉ trưa tại nhà\nC: Trong quá trình làm việc, gắn với lao động\nD: Khi ngủ tại nơi làm việc\n\nĐáp án đúng: C",
+    "id": "csv_34",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Trách nhiệm chi trả chi phí điều trị tai nạn lao động thuộc về:",
+    "answer_options": {
+      "A": "Người lao động",
+      "B": "Nhà nước",
+      "C": "Người sử dụng lao động",
+      "D": "Cơ quan BHXH",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Người lao động\nB: Nhà nước\nC: Người sử dụng lao động\nD: Cơ quan BHXH\n\nĐáp án đúng: C",
+    "id": "csv_35",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Huấn luyện ATVSLĐ phải được tổ chức:",
+    "answer_options": {
+      "A": "Khi công ty có sự cố",
+      "B": "Ít nhất 1 lần/năm",
+      "C": "Sau tai nạn lao động",
+      "D": "Tùy ý chủ doanh nghiệp",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Khi công ty có sự cố\nB: Ít nhất 1 lần/năm\nC: Sau tai nạn lao động\nD: Tùy ý chủ doanh nghiệp\n\nĐáp án đúng: B",
+    "id": "csv_36",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Người sử dụng lao động phải đánh giá rủi ro về ATVSLĐ:",
+    "answer_options": {
+      "A": "Mỗi quý",
+      "B": "Hằng năm hoặc khi có thay đổi",
+      "C": "5 năm một lần",
+      "D": "Khi bị kiểm tra",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Mỗi quý\nB: Hằng năm hoặc khi có thay đổi\nC: 5 năm một lần\nD: Khi bị kiểm tra\n\nĐáp án đúng: B",
+    "id": "csv_37",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Trang bị phương tiện bảo vệ cá nhân cho người lao động là:",
+    "answer_options": {
+      "A": "Nghĩa vụ bắt buộc của người sử dụng lao động",
+      "B": "Quyền lựa chọn của công nhân",
+      "C": "Do công đoàn quyết định",
+      "D": "Do công nhân tự mua",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Nghĩa vụ bắt buộc của người sử dụng lao động\nB: Quyền lựa chọn của công nhân\nC: Do công đoàn quyết định\nD: Do công nhân tự mua\n\nĐáp án đúng: A",
+    "id": "csv_38",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Người lao động bị tai nạn do lỗi của mình có được hưởng chế độ không?",
+    "answer_options": {
+      "A": "Không",
+      "B": "Có",
+      "C": "Tùy doanh nghiệp",
+      "D": "Chỉ nếu có thâm niên",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Không\nB: Có\nC: Tùy doanh nghiệp\nD: Chỉ nếu có thâm niên\n\nĐáp án đúng: B",
+    "id": "csv_39",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Tai nạn lao động được xem xét hưởng chế độ nếu xảy ra khi:",
+    "answer_options": {
+      "A": "Làm việc tại nhà",
+      "B": "Làm thêm giờ theo yêu cầu",
+      "C": "Đi chơi",
+      "D": "Nghỉ phép",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Làm việc tại nhà\nB: Làm thêm giờ theo yêu cầu\nC: Đi chơi\nD: Nghỉ phép\n\nĐáp án đúng: B",
+    "id": "csv_40",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Bệnh nghề nghiệp là bệnh:",
+    "answer_options": {
+      "A": "Do thời tiết gây ra",
+      "B": "Do lao động gây ra, được công nhận trong danh mục",
+      "C": "Tự phát",
+      "D": "Do tai nạn",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Do thời tiết gây ra\nB: Do lao động gây ra, được công nhận trong danh mục\nC: Tự phát\nD: Do tai nạn\n\nĐáp án đúng: B",
+    "id": "csv_41",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Ai có trách nhiệm lập hồ sơ tai nạn lao động?",
+    "answer_options": {
+      "A": "Người lao động",
+      "B": "Cơ quan y tế",
+      "C": "Người sử dụng lao động",
+      "D": "Công đoàn",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Người lao động\nB: Cơ quan y tế\nC: Người sử dụng lao động\nD: Công đoàn\n\nĐáp án đúng: C",
+    "id": "csv_42",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Bệnh nghề nghiệp có được thanh toán chi phí điều trị không?",
+    "answer_options": {
+      "A": "Không",
+      "B": "Có, theo quy định BHXH",
+      "C": "Chỉ nếu có bảo hiểm y tế",
+      "D": "Tùy địa phương",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Không\nB: Có, theo quy định BHXH\nC: Chỉ nếu có bảo hiểm y tế\nD: Tùy địa phương\n\nĐáp án đúng: B",
+    "id": "csv_43",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Trong các trường hợp sau, trường hợp nào được coi là tai nạn lao động?",
+    "answer_options": {
+      "A": "Tai nạn trên đường đi làm về phù hợp thời gian và địa điểm",
+      "B": "Bị máy cắt vào tay khi đang làm việc",
+      "C": "Cả A và B đều đúng.",
+      "D": "Cả A và B đều sai.",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Tai nạn trên đường đi làm về phù hợp thời gian và địa điểm\nB: Bị máy cắt vào tay khi đang làm việc\nC: Cả A và B đều đúng.\nD: Cả A và B đều sai.\n\nĐáp án đúng: C",
+    "id": "csv_44",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Trách nhiệm cung cấp hồ sơ điều tra tai nạn lao động thuộc về:",
+    "answer_options": {
+      "A": "Công an",
+      "B": "Doanh nghiệp",
+      "C": "Cơ quan BHXH",
+      "D": "UBND phường",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Công an\nB: Doanh nghiệp\nC: Cơ quan BHXH\nD: UBND phường\n\nĐáp án đúng: B",
+    "id": "csv_45",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Quyền của người lao động trong ATVSLĐ là:",
+    "answer_options": {
+      "A": "Từ chối làm việc khi không đảm bảo an toàn",
+      "B": "Được tham gia huấn luyện",
+      "C": "Được trang bị bảo hộ",
+      "D": "Tất cả các đáp án trên",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Từ chối làm việc khi không đảm bảo an toàn\nB: Được tham gia huấn luyện\nC: Được trang bị bảo hộ\nD: Tất cả các đáp án trên\n\nĐáp án đúng: D",
+    "id": "csv_46",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Người lao động bị suy giảm khả năng lao động từ 81% trở lên được:",
+    "answer_options": {
+      "A": "Hưởng trợ cấp một lần",
+      "B": "Hưởng trợ cấp hàng tháng",
+      "C": "Không được hưởng gì",
+      "D": "Tự lo chi phí",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Hưởng trợ cấp một lần\nB: Hưởng trợ cấp hàng tháng\nC: Không được hưởng gì\nD: Tự lo chi phí\n\nĐáp án đúng: B",
+    "id": "csv_47",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Người lao động bị chết do tai nạn lao động thì thân nhân được:",
+    "answer_options": {
+      "A": "Trợ cấp tử tuất",
+      "B": "Không được gì",
+      "C": "Miễn tiền tang lễ",
+      "D": "Phụ cấp đặc biệt",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Trợ cấp tử tuất\nB: Không được gì\nC: Miễn tiền tang lễ\nD: Phụ cấp đặc biệt\n\nĐáp án đúng: A",
+    "id": "csv_48",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Mức hưởng trợ cấp tai nạn lao động phụ thuộc vào:",
+    "answer_options": {
+      "A": "Tuổi",
+      "B": "Giới tính",
+      "C": "Mức độ suy giảm khả năng lao động",
+      "D": "Thâm niên làm việc",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Tuổi\nB: Giới tính\nC: Mức độ suy giảm khả năng lao động\nD: Thâm niên làm việc\n\nĐáp án đúng: C",
+    "id": "csv_49",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Người lao động làm việc trong môi trường độc hại cần:",
+    "answer_options": {
+      "A": "Làm việc liên tục không nghỉ",
+      "B": "Tăng lương",
+      "C": "Được khám sức khỏe định kỳ",
+      "D": "Được nghỉ phép dài hơn",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Làm việc liên tục không nghỉ\nB: Tăng lương\nC: Được khám sức khỏe định kỳ\nD: Được nghỉ phép dài hơn\n\nĐáp án đúng: C",
+    "id": "csv_50",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Thời hạn khai báo đối với tai nạn lao động gây chết người:",
+    "answer_options": {
+      "A": "Khai báo ngay với cơ quan quản lí nhà nước",
+      "B": "Trong vòng 12 giờ",
+      "C": "Trong vòng 24 giờ",
+      "D": "Sau 2 ngày",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Khai báo ngay với cơ quan quản lí nhà nước\nB: Trong vòng 12 giờ\nC: Trong vòng 24 giờ\nD: Sau 2 ngày\n\nĐáp án đúng: A",
+    "id": "csv_51",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Nội dung huấn luyện ATVSLĐ bao gồm:",
+    "answer_options": {
+      "A": "Kiến thức pháp luật",
+      "B": "Kỹ năng phòng tránh rủi ro",
+      "C": "Xử lý tình huống",
+      "D": "Tất cả đáp án trên",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Kiến thức pháp luật\nB: Kỹ năng phòng tránh rủi ro\nC: Xử lý tình huống\nD: Tất cả đáp án trên\n\nĐáp án đúng: D",
+    "id": "csv_52",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Người lao động bị tai nạn do sự cố kỹ thuật có được bồi thường không?",
+    "answer_options": {
+      "A": "Không",
+      "B": "Có",
+      "C": "Tùy doanh nghiệp",
+      "D": "Do công đoàn chi trả",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Không\nB: Có\nC: Tùy doanh nghiệp\nD: Do công đoàn chi trả\n\nĐáp án đúng: B",
+    "id": "csv_53",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Điều kiện hưởng chế độ bệnh nghề nghiệp:",
+    "answer_options": {
+      "A": "Làm việc dưới 6 tháng",
+      "B": "Mắc bệnh trong danh mục và có kết luận của cơ quan y tế",
+      "C": "Do bác sĩ điều trị xác nhận",
+      "D": "Có thâm niên 3 năm",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Làm việc dưới 6 tháng\nB: Mắc bệnh trong danh mục và có kết luận của cơ quan y tế\nC: Do bác sĩ điều trị xác nhận\nD: Có thâm niên 3 năm\n\nĐáp án đúng: B",
+    "id": "csv_54",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Mức trợ cấp một lần cho người suy giảm 5% khả năng lao động là:",
+    "answer_options": {
+      "A": "2 lần mức lương cơ sở",
+      "B": "5 lần mức lương cơ sở",
+      "C": "3 triệu đồng",
+      "D": "Không được trợ cấp",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: 2 lần mức lương cơ sở\nB: 5 lần mức lương cơ sở\nC: 3 triệu đồng\nD: Không được trợ cấp\n\nĐáp án đúng: B",
+    "id": "csv_55",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Khám phát hiện bệnh nghề nghiệp được thực hiện:",
+    "answer_options": {
+      "A": "Mỗi 3 năm",
+      "B": "Ít nhất 1 lần/năm",
+      "C": "Khi người lao động yêu cầu",
+      "D": "Khi xảy ra bệnh",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Mỗi 3 năm\nB: Ít nhất 1 lần/năm\nC: Khi người lao động yêu cầu\nD: Khi xảy ra bệnh\n\nĐáp án đúng: B",
+    "id": "csv_56",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Người lao động bị tai nạn trong thời gian học nghề có được hưởng chế độ không?",
+    "answer_options": {
+      "A": "Không",
+      "B": "Có nếu đóng BHXH",
+      "C": "Có theo quy định Luật ATVSLĐ",
+      "D": "Tùy đơn vị đào tạo",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Không\nB: Có nếu đóng BHXH\nC: Có theo quy định Luật ATVSLĐ\nD: Tùy đơn vị đào tạo\n\nĐáp án đúng: C",
+    "id": "csv_57",
+    "time": 80
+  },
+  {
+    "part": 1,
+    "question": "Phạm vi điều chỉnh của Luật ATVSLĐ gồm:",
+    "answer_options": {
+      "A": "Tai nạn giao thông",
+      "B": "Tai nạn lao động và bệnh nghề nghiệp",
+      "C": "Tai nạn xã hội",
+      "D": "Sự cố môi trường",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Tai nạn giao thông\nB: Tai nạn lao động và bệnh nghề nghiệp\nC: Tai nạn xã hội\nD: Sự cố môi trường\n\nĐáp án đúng: B",
+    "id": "csv_58",
+    "time": 60
+  },
+  {
+    "part": 1,
+    "question": "Người lao động được quyền phản ánh nguy cơ mất ATVSLĐ đến:",
+    "answer_options": {
+      "A": "Người quản lý trực tiếp",
+      "B": "Tổ an toàn vệ sinh",
+      "C": "Công đoàn cơ sở",
+      "D": "Tất cả các cơ quan trên",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Người quản lý trực tiếp\nB: Tổ an toàn vệ sinh\nC: Công đoàn cơ sở\nD: Tất cả các cơ quan trên\n\nĐáp án đúng: D",
+    "id": "csv_59",
+    "time": 70
+  },
+  {
+    "part": 1,
+    "question": "Người lao động bị tai nạn do lỗi của người sử dụng lao động được:",
+    "answer_options": {
+      "A": "Xin nghỉ việc",
+      "B": "Yêu cầu bồi thường",
+      "C": "Không được gì",
+      "D": "Được tăng lương",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Xin nghỉ việc\nB: Yêu cầu bồi thường\nC: Không được gì\nD: Được tăng lương\n\nĐáp án đúng: B",
+    "id": "csv_60",
+    "time": 80
+  },
+  {
+    "part": 2,
+    "question": "Theo Điều 32 Luật BHXH số 41/2024/QH15, Tỷ lệ đóng BHXH tự nguyện hàng tháng theo quy định bằng?",
+    "answer_options": {
+      "A": "Bằng 20% thu nhập làm căn cứ đóng BHXH vào quỹ hưu trí và tử tuất",
+      "B": "Bằng 22% thu nhập làm căn cứ đóng BHXH vào quỹ hưu trí và tử tuất",
+      "C": "Bằng 24% thu nhập làm căn cứ đóng BHXH vào quỹ hưu trí và tử tuất.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Bằng 20% thu nhập làm căn cứ đóng BHXH vào quỹ hưu trí và tử tuất\nB: Bằng 22% thu nhập làm căn cứ đóng BHXH vào quỹ hưu trí và tử tuất\nC: Bằng 24% thu nhập làm căn cứ đóng BHXH vào quỹ hưu trí và tử tuất.\n\nĐáp án đúng: B",
+    "id": "csv_61",
+    "time": 100
+  },
+  {
+    "part": 2,
+    "question": "Theo Điều 36 Luật BHXH số 41/2024/QH15, người tham gia BHXH tự nguyện có thể lựa chọn phương thức đóng BHXH tự nguyện nào sau đây?",
+    "answer_options": {
+      "A": "Đóng hàng tháng; Đóng 3 tháng một lần; Đóng 6 tháng một lần; Đóng 12 tháng một lần; Đóng Một lần cho nhiều năm về sau với số tiền đóng thấp hơn số tiền đóng theo mức quy định;",
+      "B": "Đóng một lần cho thời gian đóng bảo hiểm xã hội còn thiếu để đủ điều kiện hưởng lương hưu với số tiền đóng cao hơn số tiền đóng theo mức quy định;",
+      "C": "Tất cả các phương án trên.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Đóng hàng tháng; Đóng 3 tháng một lần; Đóng 6 tháng một lần; Đóng 12 tháng một lần; Đóng Một lần cho nhiều năm về sau với số tiền đóng thấp hơn số tiền đóng theo mức quy định;\nB: Đóng một lần cho thời gian đóng bảo hiểm xã hội còn thiếu để đủ điều kiện hưởng lương hưu với số tiền đóng cao hơn số tiền đóng theo mức quy định;\nC: Tất cả các phương án trên.\n\nĐáp án đúng: C",
+    "id": "csv_62",
+    "time": 130
+  },
+  {
+    "part": 2,
+    "question": "Theo Điều 2 Luật BHXH số 41/2024/QH15, trường hợp nào sau đây tham được gia BHXH tự nguyện.",
+    "answer_options": {
+      "A": "Người làm việc theo hợp đồng lao động không xác định thời hạn, hợp đồng lao động xác định thời hạn có thời hạn từ đủ 01 tháng trở lên, kể cả trường hợp người lao động và người sử dụng lao động thỏa thuận bằng tên gọi khác nhưng có nội dung thể hiện về việc làm có trả công, tiền lương và sự quản lý, điều hành, giám sát của một bên; đang tạm hoãn thực hiện hợp đồng lao động, hợp đồng làm việc, trừ trường hợp hai bên có thỏa thuận về việc đóng bảo hiểm xã hội bắt buộc trong thời gian này.",
+      "B": "Công dân Việt Nam từ đủ 15 tuổi trở lên không thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc và không phải là người đang hưởng lương hưu, trợ cấp bảo hiểm xã hội, trợ cấp hằng tháng.",
+      "C": "Cả A và B",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Người làm việc theo hợp đồng lao động không xác định thời hạn, hợp đồng lao động xác định thời hạn có thời hạn từ đủ 01 tháng trở lên, kể cả trường hợp người lao động và người sử dụng lao động thỏa thuận bằng tên gọi khác nhưng có nội dung thể hiện về việc làm có trả công, tiền lương và sự quản lý, điều hành, giám sát của một bên; đang tạm hoãn thực hiện hợp đồng lao động, hợp đồng làm việc, trừ trường hợp hai bên có thỏa thuận về việc đóng bảo hiểm xã hội bắt buộc trong thời gian này.\nB: Công dân Việt Nam từ đủ 15 tuổi trở lên không thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc và không phải là người đang hưởng lương hưu, trợ cấp bảo hiểm xã hội, trợ cấp hằng tháng.\nC: Cả A và B\n\nĐáp án đúng: B",
+    "id": "csv_63",
+    "time": 100
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật BHXH số 41/2024/QH15, mức trợ cấp thai sản cho người tham gia BHXH tự nguyện là:",
+    "answer_options": {
+      "A": "Mức trợ cấp thai sản là 1.000.000 đồng cho mỗi con được sinh ra và mỗi thai từ 22 tuần tuổi trở lên chết trong tử cung, thai chết trong khi chuyển dạ.",
+      "B": "Mức trợ cấp thai sản là 1.500.000 đồng cho mỗi con được sinh ra và mỗi thai từ 22 tuần tuổi trở lên chết trong tử cung, thai chết trong khi chuyển dạ.",
+      "C": "Mức trợ cấp thai sản là 2.000.000 đồng cho mỗi con được sinh ra và mỗi thai từ 22 tuần tuổi trở lên chết trong tử cung, thai chết trong khi chuyển dạ.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Mức trợ cấp thai sản là 1.000.000 đồng cho mỗi con được sinh ra và mỗi thai từ 22 tuần tuổi trở lên chết trong tử cung, thai chết trong khi chuyển dạ.\nB: Mức trợ cấp thai sản là 1.500.000 đồng cho mỗi con được sinh ra và mỗi thai từ 22 tuần tuổi trở lên chết trong tử cung, thai chết trong khi chuyển dạ.\nC: Mức trợ cấp thai sản là 2.000.000 đồng cho mỗi con được sinh ra và mỗi thai từ 22 tuần tuổi trở lên chết trong tử cung, thai chết trong khi chuyển dạ.\n\nĐáp án đúng: C",
+    "id": "csv_64",
+    "time": 100
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025 quy định, người lao động là công dân Việt Nam giao kết loại hợp đồng nào thì thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc?",
+    "answer_options": {
+      "A": "Người làm việc theo hợp đồng lao động không xác định thời hạn.",
+      "B": "Hợp đồng lao động xác định thời hạn có thời hạn từ đủ 01 tháng trở lên, kể cả trường hợp người lao động và người sử dụng lao động thỏa thuận bằng tên gọi khác nhưng có nội dung thể hiện về việc làm có trả công, tiền lương và sự quản lý, điều hành, giám sát của một bên.",
+      "C": "Cả hai đáp án trên",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Người làm việc theo hợp đồng lao động không xác định thời hạn.\nB: Hợp đồng lao động xác định thời hạn có thời hạn từ đủ 01 tháng trở lên, kể cả trường hợp người lao động và người sử dụng lao động thỏa thuận bằng tên gọi khác nhưng có nội dung thể hiện về việc làm có trả công, tiền lương và sự quản lý, điều hành, giám sát của một bên.\nC: Cả hai đáp án trên\n\nĐáp án đúng: C",
+    "id": "csv_65",
+    "time": 180
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025 quy định hành vi nào sau đây bị nghiêm cấm?",
+    "answer_options": {
+      "A": "Khiếu nại, tố cáo và khởi kiện về bảo hiểm xã hội theo quy định của pháp luật.",
+      "B": "Chậm đóng, trốn đóng bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp.",
+      "C": "Tất cả đáp án trên đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Khiếu nại, tố cáo và khởi kiện về bảo hiểm xã hội theo quy định của pháp luật.\nB: Chậm đóng, trốn đóng bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp.\nC: Tất cả đáp án trên đều đúng.\n\nĐáp án đúng: B",
+    "id": "csv_66",
+    "time": 130
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025 quy định người tham gia bảo hiểm xã hội có những quyền nào dưới đây?",
+    "answer_options": {
+      "A": "Hưởng chế độ bảo hiểm xã hội theo quy định của Luật này.",
+      "B": "Yêu cầu người sử dụng lao động và các cơ quan, tổ chức có liên quan thực hiện đầy đủ trách nhiệm về bảo hiểm xã hội đối với mình theo quy định của pháp luật.",
+      "C": "Tất cả đáp án trên đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Hưởng chế độ bảo hiểm xã hội theo quy định của Luật này.\nB: Yêu cầu người sử dụng lao động và các cơ quan, tổ chức có liên quan thực hiện đầy đủ trách nhiệm về bảo hiểm xã hội đối với mình theo quy định của pháp luật.\nC: Tất cả đáp án trên đều đúng.\n\nĐáp án đúng: C",
+    "id": "csv_67",
+    "time": 150
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025 quy định những nội dung nào dưới đây thuộc trách nhiệm của người tham gia bảo hiểm xã hội?",
+    "answer_options": {
+      "A": "Đóng bảo hiểm xã hội theo quy định của Luật này ; Theo dõi việc thực hiện trách nhiệm về bảo hiểm xã hội đối với mình .",
+      "B": "Thực hiện việc kê khai chính xác, trung thực, đầy đủ thông tin theo đúng quy định về đăng ký tham gia bảo hiểm xã hội .",
+      "C": "Cả A và B đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Đóng bảo hiểm xã hội theo quy định của Luật này ; Theo dõi việc thực hiện trách nhiệm về bảo hiểm xã hội đối với mình .\nB: Thực hiện việc kê khai chính xác, trung thực, đầy đủ thông tin theo đúng quy định về đăng ký tham gia bảo hiểm xã hội .\nC: Cả A và B đều đúng.\n\nĐáp án đúng: C",
+    "id": "csv_68",
+    "time": 170
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025 quy định quyền và trách nhiệm của công đoàn gồm những nội dung nào?",
+    "answer_options": {
+      "A": "Bảo vệ quyền, lợi ích hợp pháp của người lao động tham gia bảo hiểm xã hội; Yêu cầu người sử dụng lao động, cơ quan bảo hiểm xã hội cung cấp thông tin về bảo hiểm xã hội của người lao động; Tuyên truyền, phổ biến, tư vấn chính sách, pháp luật về bảo hiểm xã hội cho người lao động .",
+      "B": "Thực hiện hoạt động giám sát và kiến nghị với cơ quan nhà nước có thẩm quyền xử lý hành vi vi phạm pháp luật về bảo hiểm xã hội; Tham gia thanh tra, kiểm tra việc thi hành pháp luật về bảo hiểm xã hội; Khởi kiện người có hành vi vi phạm pháp luật về bảo hiểm xã hội gây ảnh hưởng đến quyền và lợi ích hợp pháp của người lao động, tập thể người lao động; Kiến nghị, tham gia xây dựng, sửa đổi, bổ sung chính sách, pháp luật về bảo hiểm xã hội .",
+      "C": "Cả A và B đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Bảo vệ quyền, lợi ích hợp pháp của người lao động tham gia bảo hiểm xã hội; Yêu cầu người sử dụng lao động, cơ quan bảo hiểm xã hội cung cấp thông tin về bảo hiểm xã hội của người lao động; Tuyên truyền, phổ biến, tư vấn chính sách, pháp luật về bảo hiểm xã hội cho người lao động .\nB: Thực hiện hoạt động giám sát và kiến nghị với cơ quan nhà nước có thẩm quyền xử lý hành vi vi phạm pháp luật về bảo hiểm xã hội; Tham gia thanh tra, kiểm tra việc thi hành pháp luật về bảo hiểm xã hội; Khởi kiện người có hành vi vi phạm pháp luật về bảo hiểm xã hội gây ảnh hưởng đến quyền và lợi ích hợp pháp của người lao động, tập thể người lao động; Kiến nghị, tham gia xây dựng, sửa đổi, bổ sung chính sách, pháp luật về bảo hiểm xã hội .\nC: Cả A và B đều đúng.\n\nĐáp án đúng: C",
+    "id": "csv_69",
+    "time": 180
+  },
+  {
+    "part": 2,
+    "question": "Tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc của người lao động thuộc đối tượng thực hiện theo chế độ tiền lương do Nhà nước quy định tại Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025 là gì?",
+    "answer_options": {
+      "A": "Tiền lương tháng theo chức vụ, chức danh, ngạch, bậc, cấp bậc quân hàm.",
+      "B": "Tiền lương tháng theo chức vụ, chức danh, ngạch, bậc, cấp bậc quân hàm và các khoản phụ cấp chức vụ, phụ cấp thâm niên vượt khung.",
+      "C": "Tiền lương tháng theo chức vụ, chức danh, ngạch, bậc, cấp bậc quân hàm và các khoản phụ cấp chức vụ, phụ cấp thâm niên vượt khung, phụ cấp thâm niên nghề, hệ số chênh lệch bảo lưu lương (nếu có).",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Tiền lương tháng theo chức vụ, chức danh, ngạch, bậc, cấp bậc quân hàm.\nB: Tiền lương tháng theo chức vụ, chức danh, ngạch, bậc, cấp bậc quân hàm và các khoản phụ cấp chức vụ, phụ cấp thâm niên vượt khung.\nC: Tiền lương tháng theo chức vụ, chức danh, ngạch, bậc, cấp bậc quân hàm và các khoản phụ cấp chức vụ, phụ cấp thâm niên vượt khung, phụ cấp thâm niên nghề, hệ số chênh lệch bảo lưu lương (nếu có).\n\nĐáp án đúng: C",
+    "id": "csv_70",
+    "time": 230
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025 quy định tỷ lệ đóng bảo hiểm xã hội bắt buộc là bao nhiêu?",
+    "answer_options": {
+      "A": "3% tiền lương làm căn cứ đóng bảo hiểm xã hội vào quỹ ốm đau và thai sản.",
+      "B": "22% tiền lương làm căn cứ đóng bảo hiểm xã hội vào quỹ hưu trí và tử tuất.",
+      "C": "Bao gồm cả A và B",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: 3% tiền lương làm căn cứ đóng bảo hiểm xã hội vào quỹ ốm đau và thai sản.\nB: 22% tiền lương làm căn cứ đóng bảo hiểm xã hội vào quỹ hưu trí và tử tuất.\nC: Bao gồm cả A và B\n\nĐáp án đúng: C",
+    "id": "csv_71",
+    "time": 140
+  },
+  {
+    "part": 2,
+    "question": "Theo Điều 38 Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, những trường hợp nào được coi là chậm đóng bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp?",
+    "answer_options": {
+      "A": "Chưa đóng hoặc đóng chưa đầy đủ số tiền phải đóng theo hồ sơ tham gia bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp đã đăng ký kể từ sau ngày đóng bảo hiểm xã hội chậm nhất quy định tại khoản 4 Điều 34 của Luật này hoặc kể từ sau ngày đóng bảo hiểm thất nghiệp chậm nhất theo quy định của pháp luật về bảo hiểm thất nghiệp, trừ trường hợp quy định tại điểm đ và điểm e khoản 1 Điều 39 của Luật này.",
+      "B": "Không đăng ký hoặc đăng ký không đầy đủ số người phải tham gia bảo hiểm xã hội bắt buộc trong thời hạn 60 ngày kể từ ngày hết thời hạn quy định tại khoản 1 Điều 28 của Luật này.",
+      "C": "Tất cả các đáp án trên đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Chưa đóng hoặc đóng chưa đầy đủ số tiền phải đóng theo hồ sơ tham gia bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp đã đăng ký kể từ sau ngày đóng bảo hiểm xã hội chậm nhất quy định tại khoản 4 Điều 34 của Luật này hoặc kể từ sau ngày đóng bảo hiểm thất nghiệp chậm nhất theo quy định của pháp luật về bảo hiểm thất nghiệp, trừ trường hợp quy định tại điểm đ và điểm e khoản 1 Điều 39 của Luật này.\nB: Không đăng ký hoặc đăng ký không đầy đủ số người phải tham gia bảo hiểm xã hội bắt buộc trong thời hạn 60 ngày kể từ ngày hết thời hạn quy định tại khoản 1 Điều 28 của Luật này.\nC: Tất cả các đáp án trên đều đúng.\n\nĐáp án đúng: C",
+    "id": "csv_72",
+    "time": 200
+  },
+  {
+    "part": 2,
+    "question": "Theo Điều 39 Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, những trường hợp nào được xem là trốn đóng bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp?",
+    "answer_options": {
+      "A": "Sau 60 ngày kể từ ngày hết thời hạn quy định tại khoản 1 Điều 28 của Luật này mà người sử dụng lao động không đăng ký hoặc đăng ký không đầy đủ số người phải tham gia bảo hiểm xã hội bắt buộc.",
+      "B": "Không đóng hoặc đóng không đầy đủ số tiền đã đăng ký bảo hiểm xã hội bắt buộc sau 60 ngày kể từ ngày đóng bảo hiểm xã hội bắt buộc chậm nhất quy định tại khoản 4 Điều 34 của Luật này và đã được cơ quan có thẩm quyền đôn đốc theo quy định tại Điều 35 của Luật này.",
+      "C": "Tất cả các đáp án trên đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Sau 60 ngày kể từ ngày hết thời hạn quy định tại khoản 1 Điều 28 của Luật này mà người sử dụng lao động không đăng ký hoặc đăng ký không đầy đủ số người phải tham gia bảo hiểm xã hội bắt buộc.\nB: Không đóng hoặc đóng không đầy đủ số tiền đã đăng ký bảo hiểm xã hội bắt buộc sau 60 ngày kể từ ngày đóng bảo hiểm xã hội bắt buộc chậm nhất quy định tại khoản 4 Điều 34 của Luật này và đã được cơ quan có thẩm quyền đôn đốc theo quy định tại Điều 35 của Luật này.\nC: Tất cả các đáp án trên đều đúng.\n\nĐáp án đúng: C",
+    "id": "csv_73",
+    "time": 200
+  },
+  {
+    "part": 2,
+    "question": "Theo Điều 40 Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025 quy định những biện pháp xử lý nào đối với hành vi chậm đóng bảo hiểm xã hội bắt buộc, bảo hiểm thất nghiệp?",
+    "answer_options": {
+      "A": "Bắt buộc đóng đủ số tiền chậm đóng; nộp số tiền bằng 0,03%/ngày tính trên số tiền bảo hiểm xã hội, bảo hiểm thất nghiệp chậm đóng và số ngày chậm đóng vào quỹ bảo hiểm xã hội, quỹ bảo hiểm thất nghiệp.",
+      "B": "Xử phạt vi phạm hành chính theo quy định của pháp luật.",
+      "C": "Tất cả các đáp án trên đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Bắt buộc đóng đủ số tiền chậm đóng; nộp số tiền bằng 0,03%/ngày tính trên số tiền bảo hiểm xã hội, bảo hiểm thất nghiệp chậm đóng và số ngày chậm đóng vào quỹ bảo hiểm xã hội, quỹ bảo hiểm thất nghiệp.\nB: Xử phạt vi phạm hành chính theo quy định của pháp luật.\nC: Tất cả các đáp án trên đều đúng.\n\nĐáp án đúng: C",
+    "id": "csv_74",
+    "time": 200
+  },
+  {
+    "part": 2,
+    "question": "Theo Điều 13 Theo Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, trách nhiệm của người sử dụng lao động được quy định như thế nào?",
+    "answer_options": {
+      "A": "Đóng bảo hiểm xã hội bắt buộc cho người lao động theo quy định tại Điều 34 của Luật này và hằng tháng trích khoản tiền phải đóng bảo hiểm xã hội bắt buộc theo quy định tại Điều 33 của Luật này từ tiền lương của người lao động để đóng cùng một lúc vào quỹ bảo hiểm xã hội.",
+      "B": "Bồi thường cho người lao động theo quy định của pháp luật nếu không thực hiện hoặc thực hiện không đầy đủ trách nhiệm đóng bảo hiểm xã hội bắt buộc theo quy định của Luật này mà gây thiệt hại đến quyền, lợi ích hợp pháp của người lao động.",
+      "C": "Cả A và B đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Đóng bảo hiểm xã hội bắt buộc cho người lao động theo quy định tại Điều 34 của Luật này và hằng tháng trích khoản tiền phải đóng bảo hiểm xã hội bắt buộc theo quy định tại Điều 33 của Luật này từ tiền lương của người lao động để đóng cùng một lúc vào quỹ bảo hiểm xã hội.\nB: Bồi thường cho người lao động theo quy định của pháp luật nếu không thực hiện hoặc thực hiện không đầy đủ trách nhiệm đóng bảo hiểm xã hội bắt buộc theo quy định của Luật này mà gây thiệt hại đến quyền, lợi ích hợp pháp của người lao động.\nC: Cả A và B đều đúng.\n\nĐáp án đúng: C",
+    "id": "csv_75",
+    "time": 200
+  },
+  {
+    "part": 2,
+    "question": "Theo Điều 2 Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, những trường hợp nào sau đây thuộc đối tượng tham gia BHXH bắt buộc",
+    "answer_options": {
+      "A": "Người quản lý doanh nghiệp, kiểm soát viên, người đại diện phần vốn nhà nước, người đại diện phần vốn của doanh nghiệp theo quy định của pháp luật; thành viên Hội đồng quản trị, Tổng giám đốc, Giám đốc, thành viên Ban kiểm soát hoặc kiểm soát viên và các chức danh quản lý khác được bầu của hợp tác xã, liên hiệp hợp tác xã theo quy định của Luật Hợp tác xã có hưởng tiền lương;",
+      "B": "Người quản lý doanh nghiệp, kiểm soát viên, người đại diện phần vốn nhà nước, người đại diện phần vốn của doanh nghiệp theo quy định của pháp luật; thành viên Hội đồng quản trị, Tổng giám đốc, Giám đốc, thành viên Ban kiểm soát hoặc kiểm soát viên và các chức danh quản lý khác được bầu của hợp tác xã, liên hiệp hợp tác xã theo quy định của Luật Hợp tác xã không hưởng tiền lương.",
+      "C": "Cả A và B.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Người quản lý doanh nghiệp, kiểm soát viên, người đại diện phần vốn nhà nước, người đại diện phần vốn của doanh nghiệp theo quy định của pháp luật; thành viên Hội đồng quản trị, Tổng giám đốc, Giám đốc, thành viên Ban kiểm soát hoặc kiểm soát viên và các chức danh quản lý khác được bầu của hợp tác xã, liên hiệp hợp tác xã theo quy định của Luật Hợp tác xã có hưởng tiền lương;\nB: Người quản lý doanh nghiệp, kiểm soát viên, người đại diện phần vốn nhà nước, người đại diện phần vốn của doanh nghiệp theo quy định của pháp luật; thành viên Hội đồng quản trị, Tổng giám đốc, Giám đốc, thành viên Ban kiểm soát hoặc kiểm soát viên và các chức danh quản lý khác được bầu của hợp tác xã, liên hiệp hợp tác xã theo quy định của Luật Hợp tác xã không hưởng tiền lương.\nC: Cả A và B.\n\nĐáp án đúng: C",
+    "id": "csv_76",
+    "time": 200
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, người sử dụng lao động có trách nhiệm gì?",
+    "answer_options": {
+      "A": "Phối hợp với cơ quan bảo hiểm xã hội trong việc xác nhận thời gian đóng bảo hiểm xã hội khi người lao động chấm dứt hợp đồng lao động, hợp đồng làm việc hoặc thôi việc theo quy định của pháp luật.",
+      "B": "Phối hợp, tạo điều kiện để cơ quan bảo hiểm xã hội thực hiện thu hồi số tiền bảo hiểm xã hội hưởng không đúng quy định của người lao động khi có quyết định của cơ quan có thẩm quyền.",
+      "C": "Xuất trình, cung cấp đầy đủ, chính xác, kịp thời thông tin, tài liệu liên quan đến việc đóng, hưởng bảo hiểm xã hội thuộc trách nhiệm của người sử dụng lao động theo yêu cầu của cơ quan nhà nước có thẩm quyền.",
+      "D": "Bồi thường cho người lao động theo quy định của pháp luật nếu không thực hiện hoặc thực hiện không đầy đủ trách nhiệm đóng bảo hiểm xã hội bắt buộc theo quy định của Luật này mà gây thiệt hại đến quyền, lợi ích hợp pháp của người lao động.",
+      "E": "Tất cả các đáp án trên đều đúng."
+    },
+    "correct_answer": "E",
+    "answer": "A: Phối hợp với cơ quan bảo hiểm xã hội trong việc xác nhận thời gian đóng bảo hiểm xã hội khi người lao động chấm dứt hợp đồng lao động, hợp đồng làm việc hoặc thôi việc theo quy định của pháp luật.\nB: Phối hợp, tạo điều kiện để cơ quan bảo hiểm xã hội thực hiện thu hồi số tiền bảo hiểm xã hội hưởng không đúng quy định của người lao động khi có quyết định của cơ quan có thẩm quyền.\nC: Xuất trình, cung cấp đầy đủ, chính xác, kịp thời thông tin, tài liệu liên quan đến việc đóng, hưởng bảo hiểm xã hội thuộc trách nhiệm của người sử dụng lao động theo yêu cầu của cơ quan nhà nước có thẩm quyền.\nD: Bồi thường cho người lao động theo quy định của pháp luật nếu không thực hiện hoặc thực hiện không đầy đủ trách nhiệm đóng bảo hiểm xã hội bắt buộc theo quy định của Luật này mà gây thiệt hại đến quyền, lợi ích hợp pháp của người lao động.\nE: Tất cả các đáp án trên đều đúng.\n\nĐáp án đúng: E",
+    "id": "csv_77",
+    "time": 180
+  },
+  {
+    "part": 2,
+    "question": "Theo Điều 9 Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, quy định các hành vi nào bị nghiêm cấm trong bảo biểm xã hội?",
+    "answer_options": {
+      "A": "Gian lận, giả mạo hồ sơ trong việc thực hiện bảo hiểm xã hội, bảo hiểm thất nghiệp.",
+      "B": "Truy cập, khai thác, cung cấp cơ sở dữ liệu về bảo hiểm xã hội, bảo hiểm thất nghiệp trái pháp luật.",
+      "C": "Tất cả các đáp án trên đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Gian lận, giả mạo hồ sơ trong việc thực hiện bảo hiểm xã hội, bảo hiểm thất nghiệp.\nB: Truy cập, khai thác, cung cấp cơ sở dữ liệu về bảo hiểm xã hội, bảo hiểm thất nghiệp trái pháp luật.\nC: Tất cả các đáp án trên đều đúng.\n\nĐáp án đúng: C",
+    "id": "csv_78",
+    "time": 150
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, người tham gia BHXH có trách nhiệm nào sau đây?",
+    "answer_options": {
+      "A": "Đóng bảo hiểm xã hội theo quy định của Luật này;",
+      "B": "Thực hiện việc kê khai chính xác, trung thực, đầy đủ thông tin theo đúng quy định về đăng ký tham gia bảo hiểm xã hội.",
+      "C": "Tất cả các đáp án trên đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Đóng bảo hiểm xã hội theo quy định của Luật này;\nB: Thực hiện việc kê khai chính xác, trung thực, đầy đủ thông tin theo đúng quy định về đăng ký tham gia bảo hiểm xã hội.\nC: Tất cả các đáp án trên đều đúng.\n\nĐáp án đúng: C",
+    "id": "csv_79",
+    "time": 140
+  },
+  {
+    "part": 2,
+    "question": "Hành vi bị nghiêm cấm theo Luật Bảo hiểm xã hội số 41/2024/QH15 là:",
+    "answer_options": {
+      "A": "Cản trở, gây khó khăn hoặc làm thiệt hại đến quyền, lợi ích hợp pháp của đối tượng tham gia, thụ hưởng bảo hiểm xã hội, bảo hiểm thất nghiệp.",
+      "B": "Cầm cố, mua bán, thế chấp, đặt cọc sổ bảo hiểm xã hội dưới mọi hình thức.",
+      "C": "Cả hai đáp án trên .",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Cản trở, gây khó khăn hoặc làm thiệt hại đến quyền, lợi ích hợp pháp của đối tượng tham gia, thụ hưởng bảo hiểm xã hội, bảo hiểm thất nghiệp.\nB: Cầm cố, mua bán, thế chấp, đặt cọc sổ bảo hiểm xã hội dưới mọi hình thức.\nC: Cả hai đáp án trên .\n\nĐáp án đúng: C",
+    "id": "csv_80",
+    "time": 90
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, bảo hiểm xã hội có bao nhiêu loại hình?",
+    "answer_options": {
+      "A": "Có 05 loại hình gồm: Trợ cấp hưu trí xã hội; Bảo hiểm xã hội bắt buộc; Bảo hiểm xã hội tự nguyện; Bảo hiểm thất nghiệp theo quy định của Luật Việc làm; Bảo hiểm hưu trí bổ sung.",
+      "B": "Có 04 loại hình gồm: Trợ cấp hưu trí xã hội; Bảo hiểm xã hội bắt buộc; Bảo hiểm xã hội tự nguyện; Bảo hiểm thất nghiệp; Bảo hiểm hưu trí bổ sung.",
+      "C": "Có 03 loại hình gồm: Trợ cấp hưu trí xã hội; Bảo hiểm xã hội bắt buộc; Bảo hiểm xã hội tự nguyện.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Có 05 loại hình gồm: Trợ cấp hưu trí xã hội; Bảo hiểm xã hội bắt buộc; Bảo hiểm xã hội tự nguyện; Bảo hiểm thất nghiệp theo quy định của Luật Việc làm; Bảo hiểm hưu trí bổ sung.\nB: Có 04 loại hình gồm: Trợ cấp hưu trí xã hội; Bảo hiểm xã hội bắt buộc; Bảo hiểm xã hội tự nguyện; Bảo hiểm thất nghiệp; Bảo hiểm hưu trí bổ sung.\nC: Có 03 loại hình gồm: Trợ cấp hưu trí xã hội; Bảo hiểm xã hội bắt buộc; Bảo hiểm xã hội tự nguyện.\n\nĐáp án đúng: A",
+    "id": "csv_81",
+    "time": 160
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, loại hình bảo hiểm xã hội bắt buộc gồm các chế độ nào?",
+    "answer_options": {
+      "A": "Ốm đau; Thai sản.",
+      "B": "Ốm đau; Thai sản; Tai nạn lao động.",
+      "C": "Ốm đau; Thai sản; Hưu trí; Tử tuất; Bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của Luật An toàn, vệ sinh lao động.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Ốm đau; Thai sản.\nB: Ốm đau; Thai sản; Tai nạn lao động.\nC: Ốm đau; Thai sản; Hưu trí; Tử tuất; Bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của Luật An toàn, vệ sinh lao động.\n\nĐáp án đúng: C",
+    "id": "csv_82",
+    "time": 150
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, điều kiện hưởng chế độ thai sản đối với các trường hợp: lao động nữ sinh con, mang thai hộ, nhận nuôi con nuôi phải có thời gian đóng bảo hiểm xã hội bắt buộc từ đủ bao nhiêu tháng?",
+    "answer_options": {
+      "A": "Đóng Bảo hiểm xã hội từ đủ 6 tháng trong trong thời gian 12 tháng liền kề trước khi sinh con hoặc nhận con khi nhờ mang thai hộ hoặc nhận nuôi con nuôi dưới 06 tháng tuổi.",
+      "B": "Đóng Bảo hiểm xã hội từ đủ 5 tháng trong trong thời gian 12 tháng",
+      "C": "Đóng Bảo hiểm xã hội từ đủ 6 tháng trong trong thời gian 10 tháng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Đóng Bảo hiểm xã hội từ đủ 6 tháng trong trong thời gian 12 tháng liền kề trước khi sinh con hoặc nhận con khi nhờ mang thai hộ hoặc nhận nuôi con nuôi dưới 06 tháng tuổi.\nB: Đóng Bảo hiểm xã hội từ đủ 5 tháng trong trong thời gian 12 tháng\nC: Đóng Bảo hiểm xã hội từ đủ 6 tháng trong trong thời gian 10 tháng.\n\nĐáp án đúng: A",
+    "id": "csv_83",
+    "time": 250
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, thời gian nghỉ việc hưởng chế độ thai sản khi lao động nữ sinh con như thế nào?",
+    "answer_options": {
+      "A": "Lao động nữ được nghỉ thai sản trước và sau khi sinh con là 06 tháng; thời gian nghỉ trước khi sinh không quá 02 tháng. Trường hợp lao động nữ sinh đôi trở lên thì tính từ con thứ 02 trở đi, cứ mỗi con, người mẹ được nghỉ thêm 01 tháng .",
+      "B": "Lao động nữ được nghỉ thai sản trước và sau khi sinh con là 06 tháng; thời gian nghỉ trước khi sinh không quá 03 tháng.",
+      "C": "Lao động nữ được nghỉ thai sản trước và sau khi sinh con là 06 tháng; thời gian nghỉ trước khi sinh không quá 01 tháng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Lao động nữ được nghỉ thai sản trước và sau khi sinh con là 06 tháng; thời gian nghỉ trước khi sinh không quá 02 tháng. Trường hợp lao động nữ sinh đôi trở lên thì tính từ con thứ 02 trở đi, cứ mỗi con, người mẹ được nghỉ thêm 01 tháng .\nB: Lao động nữ được nghỉ thai sản trước và sau khi sinh con là 06 tháng; thời gian nghỉ trước khi sinh không quá 03 tháng.\nC: Lao động nữ được nghỉ thai sản trước và sau khi sinh con là 06 tháng; thời gian nghỉ trước khi sinh không quá 01 tháng.\n\nĐáp án đúng: A",
+    "id": "csv_84",
+    "time": 200
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, thời gian giải quyết chế độ thai sản đối với người lao động tham gia bảo hiểm xã hội tự nguyện như thế nào?",
+    "answer_options": {
+      "A": "Trong thời hạn 60 ngày kể từ ngày sinh con, người lao động có trách nhiệm nộp hồ sơ quy định cho cơ quan Bảo hiểm xã hội.",
+      "B": "Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan Bảo hiểm xã hội có trách nhiệm giải quyết; trường hợp không giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do.",
+      "C": "Cả đáp án A và B",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Trong thời hạn 60 ngày kể từ ngày sinh con, người lao động có trách nhiệm nộp hồ sơ quy định cho cơ quan Bảo hiểm xã hội.\nB: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan Bảo hiểm xã hội có trách nhiệm giải quyết; trường hợp không giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do.\nC: Cả đáp án A và B\n\nĐáp án đúng: C",
+    "id": "csv_85",
+    "time": 200
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, người lao động làm việc trong điều kiện bình thường, có dưới 15 năm đóng BHXH, thì thời gian tối đa được hưởng chế độ ốm đau trong năm (từ ngày 01 tháng 01 đến ngày 31 tháng 12) là bao nhiêu ngày?",
+    "answer_options": {
+      "A": "30 ngày",
+      "B": "40 ngày",
+      "C": "60 ngày",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: 30 ngày\nB: 40 ngày\nC: 60 ngày\n\nĐáp án đúng: A",
+    "id": "csv_86",
+    "time": 260
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, người lao động làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành hoặc làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn, có dưới 15 năm đóng BHXH, thì thời gian tối đa được hưởng chế độ ốm đau trong năm (từ ngày 01 tháng 01 đến ngày 31 tháng 12) là bao nhiêu ngày?",
+    "answer_options": {
+      "A": "30 ngày",
+      "B": "40 ngày",
+      "C": "60 ngày",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: 30 ngày\nB: 40 ngày\nC: 60 ngày\n\nĐáp án đúng: B",
+    "id": "csv_87",
+    "time": 300
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, thời gian nghỉ việc hưởng chế độ thai sản đối với lao động nam đang tham gia bảo hiểm xã hội bắt buộc khi vợ sinh con phải phẫu thuật là bao nhiêu ngày?",
+    "answer_options": {
+      "A": "07 ngày làm việc;",
+      "B": "Trường hợp vợ sinh đôi phải phẫu thuật thì được nghỉ 14 ngày làm việc. Trường hợp sinh ba trở lên phải phẫu thuật thì được nghỉ thêm 03 ngày làm việc cho mỗi con tính từ con thứ ba trở đi.",
+      "C": "Tất cả các đáp án trên đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: 07 ngày làm việc;\nB: Trường hợp vợ sinh đôi phải phẫu thuật thì được nghỉ 14 ngày làm việc. Trường hợp sinh ba trở lên phải phẫu thuật thì được nghỉ thêm 03 ngày làm việc cho mỗi con tính từ con thứ ba trở đi.\nC: Tất cả các đáp án trên đều đúng.\n\nĐáp án đúng: C",
+    "id": "csv_88",
+    "time": 240
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, thời gian hưởng chế độ khi chăm sóc con ốm đau trong một năm (từ ngày 01 tháng 01 đến ngày 31 tháng 12) cho mỗi con tối đa là bao nhiêu ngày nếu con dưới 03 tuổi ?",
+    "answer_options": {
+      "A": "15 ngày",
+      "B": "20 ngày",
+      "C": "30 ngày",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: 15 ngày\nB: 20 ngày\nC: 30 ngày\n\nĐáp án đúng: B",
+    "id": "csv_89",
+    "time": 250
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, thời gian hưởng chế độ khi chăm sóc con ốm đau trong một năm (từ ngày 01 tháng 01 đến ngày 31 tháng 12) cho mỗi con tối đa là bao nhiêu ngày nếu con từ đủ 03 tuổi đến dưới 7 tuổi?",
+    "answer_options": {
+      "A": "15 ngày",
+      "B": "20 ngày",
+      "C": "30 ngày",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: 15 ngày\nB: 20 ngày\nC: 30 ngày\n\nĐáp án đúng: A",
+    "id": "csv_90",
+    "time": 260
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, hồ sơ đề nghị hưởng trợ cấp thai sản gồm một trong các loại giấy tờ sau đây, đúng hay sai?",
+    "answer_options": {
+      "A": "Bản sao giấy khai sinh hoặc bản sao giấy chứng sinh của con",
+      "B": "Trích lục khai sinh của con",
+      "C": "Tất cả các đáp án trên đều đúng.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Bản sao giấy khai sinh hoặc bản sao giấy chứng sinh của con\nB: Trích lục khai sinh của con\nC: Tất cả các đáp án trên đều đúng.\n\nĐáp án đúng: C",
+    "id": "csv_91",
+    "time": 180
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, trường hợp nào dưới đây lao động nữ đang tham gia bảo hiểm xã hội bắt buộc không được hưởng chế độ thai sản?",
+    "answer_options": {
+      "A": "Lao động nữ khám thai",
+      "B": "Lao động nữ nhận nuôi con nuôi trên 06 tháng tuổi",
+      "C": "Lao động nữ đặt vòng tránh thai, thực hiện biện pháp triệt sản",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Lao động nữ khám thai\nB: Lao động nữ nhận nuôi con nuôi trên 06 tháng tuổi\nC: Lao động nữ đặt vòng tránh thai, thực hiện biện pháp triệt sản\n\nĐáp án đúng: B",
+    "id": "csv_92",
+    "time": 190
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, quy định mức lương hưu hằng tháng đối với lao động nữ đủ điều kiện hưởng lương hưu như thế nào?",
+    "answer_options": {
+      "A": "Bằng 45% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 2%, mức tối đa bằng 75%.",
+      "B": "Bằng 55% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội quy định tại Điều 72 của Luật này tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 2%, mức tối đa bằng 75%.",
+      "C": "Bằng 65% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội quy định tại Điều 72 của Luật này tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 2%, mức tối đa bằng 75%.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Bằng 45% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 2%, mức tối đa bằng 75%.\nB: Bằng 55% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội quy định tại Điều 72 của Luật này tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 2%, mức tối đa bằng 75%.\nC: Bằng 65% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội quy định tại Điều 72 của Luật này tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 2%, mức tối đa bằng 75%.\n\nĐáp án đúng: A",
+    "id": "csv_93",
+    "time": 220
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, Chế độ hưu trí trong bảo hiểm xã hội tự nguyện yêu cầu thời gian đóng tối thiểu là bao nhiêu năm?",
+    "answer_options": {
+      "A": "10 năm",
+      "B": "15 năm",
+      "C": "20 năm",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: 10 năm\nB: 15 năm\nC: 20 năm\n\nĐáp án đúng: B",
+    "id": "csv_94",
+    "time": 160
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, người tham gia bảo hiểm xã hội tự nguyện có thể đóng một lần để đủ điều kiện hưởng hưu trí không?",
+    "answer_options": {
+      "A": "Không, họ phải đóng liên tục",
+      "B": "Được đóng một lần cho thời gian đóng bảo hiểm xã hội còn thiếu để đủ điều kiện hưởng lương hưu.",
+      "C": "Có, nhưng chỉ khi đóng dưới 10 năm",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Không, họ phải đóng liên tục\nB: Được đóng một lần cho thời gian đóng bảo hiểm xã hội còn thiếu để đủ điều kiện hưởng lương hưu.\nC: Có, nhưng chỉ khi đóng dưới 10 năm\n\nĐáp án đúng: B",
+    "id": "csv_95",
+    "time": 180
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, tỷ lệ hưởng lương hưu đối với lao động nữ có thời gian đóng bảo hiểm xã hội từ đủ 15 năm trở lên quy định như thế nào?",
+    "answer_options": {
+      "A": "Bằng 45% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 2%, mức tối đa bằng 75%",
+      "B": "Bằng 40% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 3%, mức tối đa bằng 75%",
+      "C": "Bằng 40% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 2%, mức tối đa bằng 75%",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Bằng 45% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 2%, mức tối đa bằng 75%\nB: Bằng 40% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 3%, mức tối đa bằng 75%\nC: Bằng 40% mức bình quân tiền lương làm căn cứ đóng bảo hiểm xã hội tương ứng 15 năm đóng bảo hiểm xã hội, sau đó cứ thêm mỗi năm đóng thì tính thêm 2%, mức tối đa bằng 75%\n\nĐáp án đúng: A",
+    "id": "csv_96",
+    "time": 240
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, người lao động có thời gian công tác tham gia BHXH trước ngày 01/7/2025 sau khi chấm dứt HĐLĐ bao lâu thì được hưởng BHXH 1 lần?",
+    "answer_options": {
+      "A": "Sau 12 tháng không thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc mà cũng không tham gia bảo hiểm xã hội tự nguyện và có thời gian đóng bảo hiểm xã hội chưa đủ 20 năm.",
+      "B": "Đủ 6 tháng.",
+      "C": "Được hưởng ngay.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Sau 12 tháng không thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc mà cũng không tham gia bảo hiểm xã hội tự nguyện và có thời gian đóng bảo hiểm xã hội chưa đủ 20 năm.\nB: Đủ 6 tháng.\nC: Được hưởng ngay.\n\nĐáp án đúng: A",
+    "id": "csv_97",
+    "time": 240
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, người lao động có thời gian tham gia BHXH trước năm 2014 khi giải quyết chế độ BHXH một lần được hưởng là:",
+    "answer_options": {
+      "A": "Bằng 1 tháng mức bình quân thu nhập tháng đóng BHXH.",
+      "B": "Bằng 1,5 tháng mức bình quân thu nhập tháng đóng BHXH.",
+      "C": "Bằng 2 tháng mức bình quân thu nhập tháng đóng BHXH.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Bằng 1 tháng mức bình quân thu nhập tháng đóng BHXH.\nB: Bằng 1,5 tháng mức bình quân thu nhập tháng đóng BHXH.\nC: Bằng 2 tháng mức bình quân thu nhập tháng đóng BHXH.\n\nĐáp án đúng: B",
+    "id": "csv_98",
+    "time": 210
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, người lao động có thời gian tham gia BHXH từ năm 2014 trở đi khi giải quyết chế độ BHXH một lần được hưởng là:",
+    "answer_options": {
+      "A": "Bằng 1 tháng mức bình quân thu nhập tháng đóng BHXH.",
+      "B": "Bằng 1,5 tháng mức bình quân thu nhập tháng đóng BHXH.",
+      "C": "Bằng 2 tháng mức bình quân thu nhập tháng đóng BHXH.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Bằng 1 tháng mức bình quân thu nhập tháng đóng BHXH.\nB: Bằng 1,5 tháng mức bình quân thu nhập tháng đóng BHXH.\nC: Bằng 2 tháng mức bình quân thu nhập tháng đóng BHXH.\n\nĐáp án đúng: C",
+    "id": "csv_99",
+    "time": 210
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ ngày 01/7/2025, người tham gia bảo hiểm xã hội bắt buộc từ đủ 20 năm trở lên, đủ điều kiện về tuổi để hưởng lương hưu khi suy giảm khả năng lao động là:",
+    "answer_options": {
+      "A": "Có tuổi thấp hơn tối đa 05 tuổi so với tuổi quy định tại điểm a khoản 1 Điều 64 của Luật này và bị suy giảm khả năng lao động từ 61% đến dưới 81%; Có tuổi thấp hơn tối đa 10 tuổi so với tuổi quy định tại điểm a khoản 1 Điều 64 của Luật này và bị suy giảm khả năng lao động từ 81% trở lên;",
+      "B": "Có từ đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên.",
+      "C": "Tất cả các đối tượng trên.",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Có tuổi thấp hơn tối đa 05 tuổi so với tuổi quy định tại điểm a khoản 1 Điều 64 của Luật này và bị suy giảm khả năng lao động từ 61% đến dưới 81%; Có tuổi thấp hơn tối đa 10 tuổi so với tuổi quy định tại điểm a khoản 1 Điều 64 của Luật này và bị suy giảm khả năng lao động từ 81% trở lên;\nB: Có từ đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm do Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên.\nC: Tất cả các đối tượng trên.\n\nĐáp án đúng: C",
+    "id": "csv_100",
+    "time": 280
+  },
+  {
+    "part": 2,
+    "question": "Có bao nhiêu nguyên tắc cơ bản về bình đẳng giới ?",
+    "answer_options": {
+      "A": "4 nguyên tắc",
+      "B": "5 nguyên tắc",
+      "C": "6 nguyên tắc",
+      "D": "",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: 4 nguyên tắc\nB: 5 nguyên tắc\nC: 6 nguyên tắc\n\nĐáp án đúng: C",
+    "id": "csv_101",
+    "time": 60
+  },
+  {
+    "part": 2,
+    "question": "Luật Bình Đẳng giới được áp dụng với những đối tượng nào?",
+    "answer_options": {
+      "A": "Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội- nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, tổ chức kinh tế, đơn vị sự nghiệp, đơn vị vũ trang nhân dân, gia đình và công dân Việt Nam (sau đây gọi chung là cơ quan, tổ chức, gia đình, cá nhân).",
+      "B": "Cơ quan, tổ chức nước ngoài, tổ chức quốc tế hoạt động trên lãnh thổ Việt Nam, cá nhân nước ngoài cư trú tại Việt Nam.",
+      "C": "Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị – xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội – nghề nghiệp.",
+      "D": "Đáp án A và B",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội- nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, tổ chức kinh tế, đơn vị sự nghiệp, đơn vị vũ trang nhân dân, gia đình và công dân Việt Nam (sau đây gọi chung là cơ quan, tổ chức, gia đình, cá nhân).\nB: Cơ quan, tổ chức nước ngoài, tổ chức quốc tế hoạt động trên lãnh thổ Việt Nam, cá nhân nước ngoài cư trú tại Việt Nam.\nC: Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị – xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội – nghề nghiệp.\nD: Đáp án A và B\n\nĐáp án đúng: D",
+    "id": "csv_102",
+    "time": 60
+  },
+  {
+    "part": 2,
+    "question": "“Nam, nữ bình đẳng trong việc thành lập doanh nghiệp, tiến hành hoạt động sản xuất, kinh doanh, quản lý doanh nghiệp, bình đẳng trong việc tiếp cận thông tin, nguồn vốn, thị trường và nguồn lao động”. - đó là quy định pháp luật về bình đẳng giới trên lĩnh vực nào?",
+    "answer_options": {
+      "A": "Chính trị.",
+      "B": "Kinh tế.",
+      "C": "Văn hóa.",
+      "D": "Giáo dục.",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Chính trị.\nB: Kinh tế.\nC: Văn hóa.\nD: Giáo dục.\n\nĐáp án đúng: B",
+    "id": "csv_103",
+    "time": 240
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bình đẳng giới 2006, “bình đẳng giới” được hiểu như thế nào?",
+    "answer_options": {
+      "A": "Là bình đẳng riêng cho phụ nữ.",
+      "B": "Là bình đẳng riêng cho nam giới.",
+      "C": "Là việc nam, nữ có vị trí, vai trò ngang nhau.",
+      "D": "Là việc nam, nữ có vị trí, vai trò ngang nhau, được tạo điều kiện và cơ hội phát huy năng lực của mình cho sự phát triển của cộng đồng, của gia đình và thụ hưởng ngang nhau về thành quả của sự phát triển đó.",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Là bình đẳng riêng cho phụ nữ.\nB: Là bình đẳng riêng cho nam giới.\nC: Là việc nam, nữ có vị trí, vai trò ngang nhau.\nD: Là việc nam, nữ có vị trí, vai trò ngang nhau, được tạo điều kiện và cơ hội phát huy năng lực của mình cho sự phát triển của cộng đồng, của gia đình và thụ hưởng ngang nhau về thành quả của sự phát triển đó.\n\nĐáp án đúng: D",
+    "id": "csv_104",
+    "time": 80
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bình đẳng giới năm 2006, nội dung nào sau đây là nội dung bình đẳng giới trong gia đình?",
+    "answer_options": {
+      "A": "Vợ, chồng có quyền, nghĩa vụ ngang nhau trong sở hữu tài sản chung, bình đẳng trong sử dụng nguồn thu nhập chung của vợ chồng và quyết định các nguồn lực trong gia đình.",
+      "B": "Nam, nữ bình đẳng trong tham gia quản lý nhà nước, tham gia hoạt động xã hội.",
+      "C": "Nam, nữ bình đẳng về độ tuổi đi học, đào tạo, bồi dưỡng.",
+      "D": "Tất cả các nội dung trên.",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Vợ, chồng có quyền, nghĩa vụ ngang nhau trong sở hữu tài sản chung, bình đẳng trong sử dụng nguồn thu nhập chung của vợ chồng và quyết định các nguồn lực trong gia đình.\nB: Nam, nữ bình đẳng trong tham gia quản lý nhà nước, tham gia hoạt động xã hội.\nC: Nam, nữ bình đẳng về độ tuổi đi học, đào tạo, bồi dưỡng.\nD: Tất cả các nội dung trên.\n\nĐáp án đúng: A",
+    "id": "csv_105",
+    "time": 110
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Bình đẳng giới năm 2006, hành vi nào sau đây là hành vi vi phạm pháp luật về bình đẳng giới trong gia đình?",
+    "answer_options": {
+      "A": "Cản trở thành viên không đủ năng lực hành vi dân sự trong gia đình tham gia định đoạt tài sản thuộc sở hữu chung của hộ gia đình.",
+      "B": "Bố, mẹ ép buộc các con trong gia đình nghỉ học do không đủ điều kiện kinh tế.",
+      "C": "Đối xử bất bình đẳng với các thành viên trong gia đình vì lý do giới tính.",
+      "D": "Bắt buộc các thành viên trong gia đình đều phải tham gia lao động, sản xuất.",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Cản trở thành viên không đủ năng lực hành vi dân sự trong gia đình tham gia định đoạt tài sản thuộc sở hữu chung của hộ gia đình.\nB: Bố, mẹ ép buộc các con trong gia đình nghỉ học do không đủ điều kiện kinh tế.\nC: Đối xử bất bình đẳng với các thành viên trong gia đình vì lý do giới tính.\nD: Bắt buộc các thành viên trong gia đình đều phải tham gia lao động, sản xuất.\n\nĐáp án đúng: C",
+    "id": "csv_106",
+    "time": 130
+  },
+  {
+    "part": 2,
+    "question": "Một trong những nội dung của quyền bình đẳng trong hôn nhân và gia đình là vợ, chồng có quyền và nghĩa vụ ngang nhau trong việc…",
+    "answer_options": {
+      "A": "lựa chọn nơi cư trú.",
+      "B": "cùng sử dụng bạo lực.",
+      "C": "bài trừ quyền tự do tín ngưỡng.",
+      "D": "định đoạt tài sản công cộng.",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: lựa chọn nơi cư trú.\nB: cùng sử dụng bạo lực.\nC: bài trừ quyền tự do tín ngưỡng.\nD: định đoạt tài sản công cộng.\n\nĐáp án đúng: A",
+    "id": "csv_107",
+    "time": 120
+  },
+  {
+    "part": 2,
+    "question": "Thực hiện quy định về bình đẳng giới là…",
+    "answer_options": {
+      "A": "là nhiệm vụ lớn nhất của nhà nước.",
+      "B": "là trách nhiệm của mỗi cá nhân.",
+      "C": "là trách nhiệm riêng của cơ quan công an.",
+      "D": "là trách nhiệm riêng của cơ quan tư pháp.",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: là nhiệm vụ lớn nhất của nhà nước.\nB: là trách nhiệm của mỗi cá nhân.\nC: là trách nhiệm riêng của cơ quan công an.\nD: là trách nhiệm riêng của cơ quan tư pháp.\n\nĐáp án đúng: B",
+    "id": "csv_108",
+    "time": 60
+  },
+  {
+    "part": 2,
+    "question": "Theo quy định của Luật Bình đẳng giới, những hành vi nào sau đây bị nghiêm cấm?",
+    "answer_options": {
+      "A": "Cản trở nam, nữ thực hiện bình đẳng giới;",
+      "B": "Phân biệt đối xử về giới dưới mọi hình thức;",
+      "C": "Bạo lực trên cơ sở giới.",
+      "D": "Cản trở nam, nữ thực hiện bình đẳng giới; Phân biệt đối xử về giới dưới mọi hình thức; Bạo lực trên cơ sở giới.",
+      "E": ""
+    },
+    "correct_answer": "D",
+    "answer": "A: Cản trở nam, nữ thực hiện bình đẳng giới;\nB: Phân biệt đối xử về giới dưới mọi hình thức;\nC: Bạo lực trên cơ sở giới.\nD: Cản trở nam, nữ thực hiện bình đẳng giới; Phân biệt đối xử về giới dưới mọi hình thức; Bạo lực trên cơ sở giới.\n\nĐáp án đúng: D",
+    "id": "csv_109",
+    "time": 80
+  },
+  {
+    "part": 2,
+    "question": "Bình đẳng giới trong lĩnh vực chính trị được quy định như thế nào?",
+    "answer_options": {
+      "A": "Nam, nữ bình đẳng trong tham gia quản lý nhà nước, tham gia hoạt động xã hội.",
+      "B": "Nam, nữ bình đẳng tham gia hoạt động xã hội.",
+      "C": "Nam, nữ bình đẳng trong tham gia quản lý nhà nước.",
+      "D": "Nam, nữ bình đẳng trong tham gia quy chế của cơ quan.",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Nam, nữ bình đẳng trong tham gia quản lý nhà nước, tham gia hoạt động xã hội.\nB: Nam, nữ bình đẳng tham gia hoạt động xã hội.\nC: Nam, nữ bình đẳng trong tham gia quản lý nhà nước.\nD: Nam, nữ bình đẳng trong tham gia quy chế của cơ quan.\n\nĐáp án đúng: A",
+    "id": "csv_110",
+    "time": 80
+  },
+  {
+    "part": 2,
+    "question": "Hành vi nào vi phạm pháp luật về bình đẳng giới trong lĩnh vực y tế?",
+    "answer_options": {
+      "A": "Lựa chọn giới tính thai nhi dưới mọi hình thức hoặc xúi giục, ép buộc người khác phá thai vì giới tính của thai nhi.",
+      "B": "Truyền bá tư tưởng, tự mình thực hiện hoặc xúi giục người khác thực hiện phong tục tập quán lạc hậu mang tính phân biệt đối xử về giới dưới mọi hình thức.",
+      "C": "Từ chối tuyển sinh những người có đủ điều kiện vào các khóa đào tạo, bồi dưỡng vì lý do giới tính hoặc do việc mang thai, sinh con, nuôi con nhỏ.",
+      "D": "Từ chối tuyển dụng hoặc tuyển dụng hạn chế lao động, sa thải hoặc cho thôi việc người lao động vì lý do giới tính hoặc do việc mang thai, sinh con, nuôi con nhỏ.",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Lựa chọn giới tính thai nhi dưới mọi hình thức hoặc xúi giục, ép buộc người khác phá thai vì giới tính của thai nhi.\nB: Truyền bá tư tưởng, tự mình thực hiện hoặc xúi giục người khác thực hiện phong tục tập quán lạc hậu mang tính phân biệt đối xử về giới dưới mọi hình thức.\nC: Từ chối tuyển sinh những người có đủ điều kiện vào các khóa đào tạo, bồi dưỡng vì lý do giới tính hoặc do việc mang thai, sinh con, nuôi con nhỏ.\nD: Từ chối tuyển dụng hoặc tuyển dụng hạn chế lao động, sa thải hoặc cho thôi việc người lao động vì lý do giới tính hoặc do việc mang thai, sinh con, nuôi con nhỏ.\n\nĐáp án đúng: A",
+    "id": "csv_111",
+    "time": 80
+  },
+  {
+    "part": 2,
+    "question": "“… là hành vi cố ý của thành viên gia đình gây tổn hại hoặc có khả năng gây tổn hại về thể chất, tinh thần, tình dục, kinh tế đối với thành viên khác trong gia đình.” - đó là nội dung của khái niệm nào sau đây?",
+    "answer_options": {
+      "A": "Bạo lực gia đình.",
+      "B": "Vi phạm pháp luật.",
+      "C": "Bạo lực học đường.",
+      "D": "Tệ nạn xã hội.",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Bạo lực gia đình.\nB: Vi phạm pháp luật.\nC: Bạo lực học đường.\nD: Tệ nạn xã hội.\n\nĐáp án đúng: A",
+    "id": "csv_112",
+    "time": 200
+  },
+  {
+    "part": 2,
+    "question": "Luật Phòng, chống bạo lực gia đình năm 2022 quy định Tháng hành động quốc gia phòng, chống bạo lực gia đình là tháng nào trong năm?",
+    "answer_options": {
+      "A": "Tháng 6 hằng năm.",
+      "B": "Tháng 10 hàng năm.",
+      "C": "Tháng 11 hàng năm.",
+      "D": "Tháng 12 hàng năm.",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Tháng 6 hằng năm.\nB: Tháng 10 hàng năm.\nC: Tháng 11 hàng năm.\nD: Tháng 12 hàng năm.\n\nĐáp án đúng: A",
+    "id": "csv_113",
+    "time": 130
+  },
+  {
+    "part": 2,
+    "question": "Quy định của pháp luật về phòng, chống bạo lực gia đình được quy định cụ thể ở văn bản luật nào dưới đây?",
+    "answer_options": {
+      "A": "Luật Hôn nhân và gia đình năm 2014.",
+      "B": "Luật Bình đẳng giới năm 2006.",
+      "C": "Luật Phòng, chống bạo lực gia đình năm 2022.",
+      "D": "Luật Trẻ em năm 2016.",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Luật Hôn nhân và gia đình năm 2014.\nB: Luật Bình đẳng giới năm 2006.\nC: Luật Phòng, chống bạo lực gia đình năm 2022.\nD: Luật Trẻ em năm 2016.\n\nĐáp án đúng: C",
+    "id": "csv_114",
+    "time": 110
+  },
+  {
+    "part": 2,
+    "question": "Hành vi nào dưới đây bị nghiêm cấm trong phòng, chống bạo lực gia đình?",
+    "answer_options": {
+      "A": "Trả thù, đe dọa trả thù người giúp đỡ người bị bạo lực gia đình, người phát hiện, báo tin, tố giác, ngăn chặn hành vi bạo lực gia đình.",
+      "B": "Can ngăn người gây ra bạo lực gia đình; phát hiện, báo tin, tố giác, ngăn chặn và xử lý hành vi bạo lực gia đình",
+      "C": "Giúp sức để người bị bạo lực gia đình có thể trốn thoát.",
+      "D": "Động viên người bị bạo lực gia đình tố cáo hành vi bạo lực gia đình với cơ quan chức năng.",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Trả thù, đe dọa trả thù người giúp đỡ người bị bạo lực gia đình, người phát hiện, báo tin, tố giác, ngăn chặn hành vi bạo lực gia đình.\nB: Can ngăn người gây ra bạo lực gia đình; phát hiện, báo tin, tố giác, ngăn chặn và xử lý hành vi bạo lực gia đình\nC: Giúp sức để người bị bạo lực gia đình có thể trốn thoát.\nD: Động viên người bị bạo lực gia đình tố cáo hành vi bạo lực gia đình với cơ quan chức năng.\n\nĐáp án đúng: A",
+    "id": "csv_115",
+    "time": 100
+  },
+  {
+    "part": 2,
+    "question": "Việc báo tin, tố giác đến địa chỉ tiếp nhận tin báo, tố giác về hành vi bạo lực gia đình được thực hiện bằng các hình thức nào?",
+    "answer_options": {
+      "A": "Gọi điện, nhắn tin. Gửi đơn, thư.",
+      "B": "Gọi điện, nhắn tin. Gửi đơn, thư. Trực tiếp báo tin.",
+      "C": "Trực tiếp báo tin. Gửi đơn, thư.",
+      "D": "Gửi đơn, thư.",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Gọi điện, nhắn tin. Gửi đơn, thư.\nB: Gọi điện, nhắn tin. Gửi đơn, thư. Trực tiếp báo tin.\nC: Trực tiếp báo tin. Gửi đơn, thư.\nD: Gửi đơn, thư.\n\nĐáp án đúng: B",
+    "id": "csv_116",
+    "time": 130
+  },
+  {
+    "part": 2,
+    "question": "Theo Luật Phòng, chống bạo lực gia đình năm 2022, hành vi nào được coi là bạo lực gia đình?",
+    "answer_options": {
+      "A": "Lăng mạ xúc phạm nhân phẩm.",
+      "B": "Cưỡng ép kết hôn",
+      "C": "Cưỡng ép tảo hôn, kết hôn, ly hôn hoặc cản trở kết hôn, ly hôn hợp pháp;",
+      "D": "Không cho con gặp cha hoặc mẹ.",
+      "E": ""
+    },
+    "correct_answer": "C",
+    "answer": "A: Lăng mạ xúc phạm nhân phẩm.\nB: Cưỡng ép kết hôn\nC: Cưỡng ép tảo hôn, kết hôn, ly hôn hoặc cản trở kết hôn, ly hôn hợp pháp;\nD: Không cho con gặp cha hoặc mẹ.\n\nĐáp án đúng: C",
+    "id": "csv_117",
+    "time": 100
+  },
+  {
+    "part": 2,
+    "question": "Định nghĩa về Bạo lực trên cơ sở giới nào sau đây là đúng:",
+    "answer_options": {
+      "A": "Là bạo lực nhằm vào một người dựa trên cơ sở giới tính của người đó.",
+      "B": "Là bạo lực nhằm vào một người dựa trên cơ sở tính cách của người đó.",
+      "C": "Là bạo lực nhằm vào một người dựa trên hoàn cảnh của người đó.",
+      "D": "Là bạo lực nhằm vào một người dựa trên sự yêu - ghét đối với người đó.",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Là bạo lực nhằm vào một người dựa trên cơ sở giới tính của người đó.\nB: Là bạo lực nhằm vào một người dựa trên cơ sở tính cách của người đó.\nC: Là bạo lực nhằm vào một người dựa trên hoàn cảnh của người đó.\nD: Là bạo lực nhằm vào một người dựa trên sự yêu - ghét đối với người đó.\n\nĐáp án đúng: A",
+    "id": "csv_118",
+    "time": 70
+  },
+  {
+    "part": 2,
+    "question": "Địa chỉ nào là nơi tiếp nhận tin báo, tố giác về hành vi bạo lực gia đình?",
+    "answer_options": {
+      "A": "Ủy ban nhân dân cấp xã.",
+      "B": "Ủy ban nhân dân cấp xã nơi xảy ra hành vi bạo lực gia đình; Cơ quan Công an, Đồn Biên phòng gần nơi xảy ra hành vi bạo lực gia đình.",
+      "C": "Gia đình người thân.",
+      "D": "Trạm y tế xã.",
+      "E": ""
+    },
+    "correct_answer": "B",
+    "answer": "A: Ủy ban nhân dân cấp xã.\nB: Ủy ban nhân dân cấp xã nơi xảy ra hành vi bạo lực gia đình; Cơ quan Công an, Đồn Biên phòng gần nơi xảy ra hành vi bạo lực gia đình.\nC: Gia đình người thân.\nD: Trạm y tế xã.\n\nĐáp án đúng: B",
+    "id": "csv_119",
+    "time": 90
+  },
+  {
+    "part": 2,
+    "question": "Giáo dục, hỗ trợ chuyển đổi hành vi bạo lực gia đình là gì?",
+    "answer_options": {
+      "A": "Là quá trình cung cấp kiến thức, kỹ năng ứng xử, kiềm chế cảm xúc tiêu cực, kiểm soát hành vi, giải quyết mâu thuẫn giúp người có hành vi bạo lực gia đình chấm dứt bạo lực gia đình.",
+      "B": "Là cung cấp kiến thức, kỹ năng ứng xử, kiềm chế cảm xúc tiêu cực, giải quyết mâu thuẫn giúp người có hành vi bạo lực gia đình chấm dứt bạo lực gia đình.",
+      "C": "Là quá trình hỗ trợ kiến thức, kỹ năng ứng xử, kiềm chế cảm xúc tiêu cực, kiểm soát hành vi, giải quyết mâu thuẫn giúp người có hành vi bạo lực gia đình chấm dứt bạo lực gia đình.",
+      "D": "Là quá trình bồi dưỡng kiến thức, kỹ năng ứng xử, kiềm chế cảm xúc tiêu cực, kiểm soát hành vi, giải quyết mâu thuẫn giúp người có hành vi bạo lực gia đình chấm dứt bạo lực gia đình.",
+      "E": ""
+    },
+    "correct_answer": "A",
+    "answer": "A: Là quá trình cung cấp kiến thức, kỹ năng ứng xử, kiềm chế cảm xúc tiêu cực, kiểm soát hành vi, giải quyết mâu thuẫn giúp người có hành vi bạo lực gia đình chấm dứt bạo lực gia đình.\nB: Là cung cấp kiến thức, kỹ năng ứng xử, kiềm chế cảm xúc tiêu cực, giải quyết mâu thuẫn giúp người có hành vi bạo lực gia đình chấm dứt bạo lực gia đình.\nC: Là quá trình hỗ trợ kiến thức, kỹ năng ứng xử, kiềm chế cảm xúc tiêu cực, kiểm soát hành vi, giải quyết mâu thuẫn giúp người có hành vi bạo lực gia đình chấm dứt bạo lực gia đình.\nD: Là quá trình bồi dưỡng kiến thức, kỹ năng ứng xử, kiềm chế cảm xúc tiêu cực, kiểm soát hành vi, giải quyết mâu thuẫn giúp người có hành vi bạo lực gia đình chấm dứt bạo lực gia đình.\n\nĐáp án đúng: A",
+    "id": "csv_120",
+    "time": 110
+  }
+]

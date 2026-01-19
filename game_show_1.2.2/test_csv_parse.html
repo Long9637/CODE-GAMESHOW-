@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test CSV Parse</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .question-card {
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+            background: #f9f9f9;
+        }
+        .question-text {
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        .answer-options {
+            margin-left: 20px;
+        }
+        .answer-option {
+            margin: 5px 0;
+        }
+        .correct-answer {
+            color: green;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            margin: 10px 5px;
+        }
+        .stats {
+            background: #e3f2fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Test CSV Parser - New Format</h1>
+    <div class="stats" id="stats"></div>
+    <button onclick="loadAndParseCSV()">Load CSV</button>
+    <button onclick="showFirst5()">Show First 5</button>
+    <button onclick="showAll()">Show All</button>
+    <div id="output"></div>
+
+    <script>
+        let parsedQuestions = [];
+
+        // Copy parseCSV and parseCSVLine functions from script.js
+        function parseCSV(csvText) {
+            const lines = csvText.trim().split('\n');
+            const questions = [];
+            
+            // Parse header để xác định cấu trúc file
+            const headerLine = lines[0].trim();
+            const headers = parseCSVLine(headerLine);
+            
+            console.log('Headers:', headers);
+            
+            // Kiểm tra xem có phải format mới không
+            const hasMultipleAnswers = headers.includes('ans_1') && headers.includes('correct_ans');
+            console.log('Has multiple answers format:', hasMultipleAnswers);
+            
+            for (let i = 1; i < lines.length; i++) {
+                const line = lines[i].trim();
+                if (!line) continue;
+                
+                const questionIndex = questions.length;
+                const questionPart = questionIndex < 60 ? 1 : 2;
+                
+                if (hasMultipleAnswers) {
+                    const values = parseCSVLine(line);
+                    
+                    if (values.length >= 4) {
+                        const ques = values[0];
+                        const correct_ans = values[values.length - 1] || '';
+                        
+                        const ans_1 = values[1] || '';
+                        const ans_2 = values[2] || '';
+                        const ans_3 = values.length > 3 ? (values[3] || '') : '';
+                        const ans_4 = values.length > 4 ? (values[4] || '') : '';
+                        const ans_5 = values.length > 5 ? (values[5] || '') : '';
+                        
+                        const answerOptions = {
+                            A: ans_1,
+                            B: ans_2,
+                            C: ans_3,
+                            D: ans_4,
+                            E: ans_5
+                        };
+                        
+                        let answerText = '';
+                        if (ans_1) answerText += `A: ${ans_1}\n`;
+                        if (ans_2) answerText += `B: ${ans_2}\n`;
+                        if (ans_3) answerText += `C: ${ans_3}\n`;
+                        if (ans_4) answerText += `D: ${ans_4}\n`;
+                        if (ans_5) answerText += `E: ${ans_5}\n`;
+                        answerText += `\nĐáp án đúng: ${correct_ans.toUpperCase()}`;
+                        
+                        questions.push({
+                            part: questionPart,
+                            question: ques,
+                            answer_options: answerOptions,
+                            correct_answer: correct_ans.toUpperCase().trim(),
+                            answer: answerText
+                        });
+                    }
+                }
+            }
+            return questions;
+        }
+
+        function parseCSVLine(line) {
+            const result = [];
+            let current = '';
+            let inQuotes = false;
+            
+            for (let i = 0; i < line.length; i++) {
+                const char = line[i];
+                const nextChar = line[i + 1];
+                
+                if (char === '"') {
+                    if (inQuotes && nextChar === '"') {
+                        current += '"';
+                        i++;
+                    } else {
+                        inQuotes = !inQuotes;
+                    }
+                } else if (char === ',' && !inQuotes) {
+                    result.push(current.trim());
+                    current = '';
+                } else {
+                    current += char;
+                }
+            }
+            
+            result.push(current.trim());
+            return result;
+        }
+
+        async function loadAndParseCSV() {
+            try {
+                const response = await fetch('data/cau_hoi_dap_an_new.csv?t=' + Date.now());
+                if (!response.ok) {
+                    throw new Error('Cannot load CSV file');
+                }
+                const csvText = await response.text();
+                parsedQuestions = parseCSV(csvText);
+                
+                const part1 = parsedQuestions.filter(q => q.part === 1).length;
+                const part2 = parsedQuestions.filter(q => q.part === 2).length;
+                
+                document.getElementById('stats').innerHTML = `
+                    <h3>Statistics</h3>
+                    <p>Total Questions: ${parsedQuestions.length}</p>
+                    <p>Part 1: ${part1} questions</p>
+                    <p>Part 2: ${part2} questions</p>
+                `;
+                
+                alert('CSV loaded successfully! Total: ' + parsedQuestions.length + ' questions');
+            } catch (error) {
+                alert('Error: ' + error.message);
+                console.error(error);
+            }
+        }
+
+        function displayQuestions(questions) {
+            const output = document.getElementById('output');
+            output.innerHTML = questions.map((q, idx) => `
+                <div class="question-card">
+                    <div class="question-text">Question ${idx + 1} (Part ${q.part}): ${q.question}</div>
+                    <div class="answer-options">
+                        ${Object.entries(q.answer_options).map(([key, value]) => 
+                            value ? `<div class="answer-option">${key}: ${value}</div>` : ''
+                        ).join('')}
+                    </div>
+                    <div class="correct-answer">Correct Answer: ${q.correct_answer}</div>
+                </div>
+            `).join('');
+        }
+
+        function showFirst5() {
+            if (parsedQuestions.length === 0) {
+                alert('Please load CSV first!');
+                return;
+            }
+            displayQuestions(parsedQuestions.slice(0, 5));
+        }
+
+        function showAll() {
+            if (parsedQuestions.length === 0) {
+                alert('Please load CSV first!');
+                return;
+            }
+            displayQuestions(parsedQuestions);
+        }
+    </script>
+</body>
+</html>

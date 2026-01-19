@@ -1,0 +1,32 @@
+[
+  {
+    "team_id": "1758340649431",
+    "name": "STT 01 - Cty TNHH Hạt giống C.P. Việt Nam",
+    "useIndexedDB": false,
+    "imagePath": "images/teams/STT01.jpg"
+  },
+  {
+    "team_id": "1758340649432",
+    "name": "STT 02 - Cty TNHH Pousung Vina",
+    "useIndexedDB": false,
+    "imagePath": "images/teams/STT02.jpg"
+  },
+  {
+    "team_id": "1758340649433",
+    "name": "STT 03 - TTYT BÙ GIA MẬP",
+    "useIndexedDB": false,
+    "imagePath": "images/teams/STT03.jpg"
+  },
+  {
+    "team_id": "1758340649434",
+    "name": "STT 04 - Công ty TNHH Sản xuất Đồ Mộc Chien VN",
+    "useIndexedDB": false,
+    "imagePath": "images/teams/STT04.jpg"
+  },
+  {
+    "team_id": "1758340649435",
+    "name": "STT 05 - Cổ phần TKG TaeKwang Vina (Đội 1)",
+    "useIndexedDB": false,
+    "imagePath": "images/teams/STT05.jpg"
+  }
+]

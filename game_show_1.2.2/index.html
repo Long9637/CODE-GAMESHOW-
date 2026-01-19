@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hệ Thống Game Show - Liên đoàn Lao động tỉnh Đồng Nai</title>
+
+    <link rel="icon" href="logo/logo.jpg" type="image/jpg">
+
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo-section">
+                <div class="logo" id="appLogo" style="display: none;">
+                    <img src="logo/logo.jpg" alt="Game Show Logo" class="logo-img" style="width: 70px; height: auto;" onerror="this.style.display='none'">
+                </div>
+                <h1 class="animated-title">
+                    <span class="title-main">Hội thi duyên dáng xưa và nay</span>
+                </h1>
+            </div>
+            <div class="user-info" id="userInfo" style="display: none;">
+                <button onclick="logout()" class="btn btn-secondary"><i class="fas fa-sign-out-alt" style="color: black;"></i> Đăng xuất</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Login Screen -->
+    <div id="loginScreen" class="screen active">
+        <div class="login-container">
+            <div class="login-box">
+                <div class="login-logo">
+                    <div class="logo-pulse">
+                        <img src="logo/logo.jpg" alt="Game Show Logo" class="logo-img" style="width: 110px; height: auto;" onerror="this.style.display='none'">
+                    </div>
+                </div>
+                <h2 class="login-title">TRUY CẬP HỆ THỐNG</h2>
+                <form id="loginForm">
+                    <div class="form-group">
+                        <label for="username">Tên đăng nhập:</label>
+                        <input type="text" id="username" placeholder="Nhập tên đăng nhập" required>
+                        <div class="input-glow"></div>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Mật khẩu:</label>
+                        <input type="password" id="password" placeholder="Nhập mật khẩu" required>
+                        <div class="input-glow"></div>
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-game-login">
+                        <span class="btn-text">ĐĂNG NHẬP</span>
+                        <div class="btn-pulse"></div>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Dashboard -->
+    <div id="mainDashboard" class="screen">
+        <button onclick="exportToExcel()">Export Excel</button> </div>
+    <div id="dashboardScreen" class="screen">
+        <div class="dashboard-background">
+            <div class="floating-shape shape-1"></div>
+            <div class="floating-shape shape-2"></div>
+            <div class="floating-shape shape-3"></div>
+            <div class="floating-shape shape-4"></div>
+        </div>
+        <div class="container">
+            <div class="dashboard-title">
+                <h2 class="dashboard-heading">
+                    <i class="fas fa-star"></i> BẢNG ĐIỀU KHIỂN GAME SHOW
+                    <i class="fas fa-star"></i>
+                </h2>
+            </div>
+            <nav class="dashboard-nav">
+                <div class="nav-card" onclick="showScreen('judgeManagement')">
+                    <div class="nav-icon">
+                        <i class="fas fa-users"></i>
+                    </div>
+                    <div class="nav-content">
+                        <h3>BAN GIÁM KHẢO</h3>
+                        <p>Quản lý thông tin BGK</p>
+                    </div>
+                    <div class="nav-glow"></div>
+                </div>
+
+                <div class="nav-card" onclick="showScreen('teamImages')">
+                    <div class="nav-icon">
+                        <i class="fas fa-images"></i>
+                    </div>
+                    <div class="nav-content">
+                        <h3>ẢNH ĐỘI CHƠI</h3>
+                        <p>Quản lý hình ảnh</p>
+                    </div>
+                    <div class="nav-glow"></div>
+                </div>
+
+                <div class="nav-card" onclick="showScreen('questionManagement')">
+                    <div class="nav-icon">
+                        <i class="fas fa-question-circle"></i>
+                    </div>
+                    <div class="nav-content">
+                        <h3>CÂU HỎI</h3>
+                        <p>Quản lý ngân hàng câu hỏi</p>
+                    </div>
+                    <div class="nav-glow"></div>
+                </div>
+
+                <div class="nav-card game-start-card" onclick="showScreen('teamListScreen')">
+                    <div class="nav-icon">
+                        <i class="fas fa-play"></i>
+                    </div>
+                    <div class="nav-content">
+                        <h3>BẮT ĐẦU</h3>
+                        <p>Khởi động Game Show</p>
+                    </div>
+                    <div class="nav-glow"></div>
+                    <div class="sparkles">
+                        <div class="sparkle"></div>
+                        <div class="sparkle"></div>
+                        <div class="sparkle"></div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+
+    <!-- Judge Management Screen -->
+    <div id="judgeManagement" class="screen">
+        <div class="container">
+            <div class="screen-header">
+                <!-- Logo và các nút bên trái -->
+                <div class="header-group-left">
+                    <div class="fullscreen-logo-section">
+                        <div class="logo">
+                            <img src="logo/logo.jpg" alt="Game Show Logo" class="logo-img" style="width: 50px; height: auto;" onerror="this.style.display='none'">
+                        </div>
+                        <h1 class="animated-title"><span class="title-main">Hội thi duyên dáng xưa và nay</span></h1>
+                    </div>
+                    <h2><i class="fas fa-users"></i> Quản Lý Ban Giám Khảo</h2>
+                </div>
+                <!-- Các nút điều khiển bên phải -->
+                <div class="game-controls">
+                    <button onclick="toggleFullscreen()" class="btn btn-success">
+                        <i class="fas fa-expand"></i> Toàn Màn Hình
+                    </button>
+                    <button onclick="showScreen('dashboardScreen')" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Quay lại
+                    </button>
+                </div>
+            </div>
+
+            <div class="judge-form">
+                <h3>Thêm/Sửa thành viên Ban Giám Khảo</h3>
+                <form id="judgeForm">
+                    <input type="hidden" id="judgeId">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="judgeName">Họ và tên:</label>
+                            <input type="text" id="judgeName" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="judgeTitle">Chức vụ:</label>
+                            <input type="text" id="judgeTitle" required>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="judgeType">Loại BGK:</label>
+                            <select id="judgeType" required>
+                                <option value="main">BGK Chính</option>
+                                <option value="sub">BGK Phụ</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="judgeImageFile">Ảnh đại diện:</label>
+                            <input type="file" id="judgeImageFile" accept="image/*" onchange="previewImage(this, 'judgeImagePreview', 'judgePreviewImg')">
+                        </div>
+                    </div>
+                    <div id="judgeImagePreview" class="image-preview" style="display: none;">
+                        <img id="judgePreviewImg" src="" alt="Preview">
+                        <button type="button" onclick="removePreview('judgeImageFile', 'judgeImagePreview', 'judgePreviewImg')" class="btn btn-danger btn-small" style="margin-top: 5px;">
+                            <i class="fas fa-times"></i> Xóa ảnh
+                        </button>
+                    </div>
+
+                    <fieldset class="question-fieldset">
+                        <legend>Danh sách câu hỏi phụ</legend>
+                        <div id="judgeQuestionsContainer">
+                        </div>
+                        <button type="button" onclick="addJudgeQuestion()" class="btn btn-success" style="margin-top: 1rem;">
+                            <i class="fas fa-plus"></i> Thêm câu hỏi phụ
+                        </button>
+                    </fieldset>
+                    <div class="form-actions">
+                        <button type="submit" class="btn btn-primary">Lưu</button>
+                        <button type="button" onclick="resetJudgeForm()" class="btn btn-secondary">Hủy</button>
+                    </div>
+                </form>
+            </div>
+
+            <div class="judge-list">
+                <h3>Danh Sách Ban Giám Khảo</h3>
+                <!-- reset giám khảo để test -->
+                <button onclick="resetFinalRoundState()" class="btn btn-warning" style="margin-bottom: 1.5rem;">
+                    <i class="fas fa-sync-alt"></i> Reset Trạng Thái 'Đã Dùng'
+                </button>
+
+                <div id="judgesList"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Team Images Management Screen -->
+    <div id="teamImages" class="screen">
+        <div class="container">
+            <div class="screen-header">
+                <!-- Logo và các nút bên trái -->
+                <div class="header-group-left">
+                    <div class="fullscreen-logo-section">
+                        <div class="logo">
+                            <img src="logo/logo.jpg" alt="Game Show Logo" class="logo-img" style="width: 50px; height: auto;" onerror="this.style.display='none'">
+                        </div>
+                        <h1 class="animated-title"><span class="title-main">Hội thi duyên dáng xưa và nay</span></h1>
+                    </div>
+                    <h2><i class="fas fa-images"></i>Quản Lý Ảnh Giới Thiệu Các Đội</h2>
+                </div>
+                <!-- Các nút điều khiển bên phải -->
+                <div class="game-controls">
+                    <button onclick="toggleFullscreen()" class="btn btn-success">
+                        <i class="fas fa-expand"></i> Toàn Màn Hình
+                    </button>
+                    <button onclick="showScreen('dashboardScreen')" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Quay lại
+                    </button>
+                </div>
+            </div>
+
+            <div class="team-form">
+                <h3>Thêm Ảnh Đội</h3>
+                <form id="teamForm">
+                    <div class="form-group">
+                        <label for="teamName">Tên đội:</label>
+                        <input type="text" id="teamName" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="teamImageFile">Hoặc Upload Ảnh Từ Máy (không giới hạn kích thước):</label>
+                        <input type="file" id="teamImageFile" accept="image/*" onchange="previewImage(this, 'imagePreview', 'previewImg')">
+                        <div id="imagePreview" class="image-preview" style="display: none;">
+                            <img id="previewImg" src="" alt="Preview" style="max-width: 200px; max-height: 200px; border-radius: 8px; margin-top: 10px;">
+                            <button type="button" onclick="removePreview('teamImageFile', 'imagePreview', 'previewImg')" class="btn btn-danger btn-small" style="margin-top: 5px;">
+                                <i class="fas fa-times"></i> Xóa
+                            </button>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Thêm Ảnh</button>
+                </form>
+            </div>
+
+            <div class="team-list">
+                <h3>Danh Sách Ảnh Đội</h3>
+                <p style="font-size: 14px; color: #666; margin-bottom: 15px;"><i class="fas fa-info-circle"></i> Tất cả ảnh được lưu trực tiếp trong máy của bạn (không giới hạn kích thước)</p>
+                <div id="teamsList"></div>
+                <button onclick="showRandomTeamImage()" class="btn btn-success">
+                    <i class="fas fa-random"></i> Hiển Thị Ảnh Ngẫu Nhiên
+                </button>
+            </div>
+
+            <div id="randomImageDisplay" class="random-image-display" style="display: none;">
+                <h3>Ảnh Được Chọn Ngẫu Nhiên</h3>
+                <div id="randomImageContainer"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Question Management Screen -->
+    <div id="questionManagement" class="screen">
+        <div class="container">
+            <div class="screen-header">
+                <!-- Logo và các nút bên trái -->
+                <div class="header-group-left">
+                    <div class="fullscreen-logo-section">
+                        <div class="logo">
+                            <img src="logo/logo.jpg" alt="Game Show Logo" class="logo-img" style="width: 50px; height: auto;" onerror="this.style.display='none'">
+                        </div>
+                        <h1 class="animated-title"><span class="title-main">Hội thi duyên dáng xưa và nay</span></h1>
+                    </div>
+                    <h2><i class="fas fa-question-circle"></i> Quản Lý Câu Hỏi</h2>
+                </div>
+                <!-- Các nút điều khiển bên phải -->
+                <div class="game-controls">
+                    <button onclick="toggleFullscreen()" class="btn btn-success">
+                        <i class="fas fa-expand"></i> Toàn Màn Hình
+                    </button>
+                    <button onclick="showScreen('dashboardScreen')" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Quay lại
+                    </button>
+                </div>
+            </div>
+
+            <div class="question-stats">
+                <div class="stat-card">
+                    <h3 id="questionCount">0</h3>
+                    <p>Tổng số câu hỏi</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="part1Count">0</h3>
+                    <p>Phần 1</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="part2Count">0</h3>
+                    <p>Phần 2</p>
+                </div>
+            </div>
+
+            <div class="question-form">
+                <h3>Thêm Câu Hỏi</h3>
+                <form id="questionForm">
+                    <div class="form-group">
+                        <label for="questionPart">Phần:</label>
+                        <select id="questionPart" required>
+                            <option value="1">Phần 1</option>
+                            <option value="2">Phần 2</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="questionText">Câu hỏi:</label>
+                        <textarea id="questionText" required rows="3"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="questionAnswer">Đáp án:</label>
+                        <textarea id="questionAnswer" required rows="2"></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label for="questionTime">Thời gian (giây):</label>
+                        <input type="number" id="questionTime" min="1" value="300" required>
+                        <small style="color: #888; display: block; margin-top: 5px;">Mặc định: 300 giây (5 phút)</small>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Thêm Câu Hỏi</button>
+                </form>
+            </div>
+
+            <div class="question-import">
+                <h3>Nhập Câu Hỏi Hàng Loạt</h3>
+                <div class="form-group">
+                    <label for="bulkQuestions">Nhập câu hỏi (mỗi dòng: Phần|Câu hỏi|Đáp án|Thời gian(giây)):</label>
+                    <textarea id="bulkQuestions" rows="10" placeholder="1|Câu hỏi 1?|Đáp án 1|300&#10;2|Câu hỏi 2?|Đáp án 2|180"></textarea>
+                </div>
+                <button onclick="importBulkQuestions()" class="btn btn-success">Nhập Hàng Loạt</button>
+            </div>
+
+            <div class="question-import">
+                <h3><i class="fas fa-clock"></i> Đặt Thời Gian Cho Tất Cả Câu Hỏi</h3>
+                <div class="form-group">
+                    <label for="globalQuestionTime">Thời gian cho tất cả câu hỏi (giây):</label>
+                    <input type="number" id="globalQuestionTime" min="1" value="300" style="max-width: 200px;">
+                    <small style="color: #888; display: block; margin-top: 5px;">
+                        Áp dụng thời gian này cho TẤT CẢ câu hỏi hiện có
+                    </small>
+                </div>
+                <button onclick="applyGlobalQuestionTime()" class="btn btn-warning">
+                    <i class="fas fa-sync-alt"></i> Áp Dụng Cho Tất Cả
+                </button>
+            </div>
+
+            <div class="csv-import-section">
+                <h3><i class="fas fa-file-csv"></i> Load từ File CSV</h3>
+                <div class="csv-info">
+                    <p><strong>📁 File:</strong> cau_hoi_dap_an.csv</p>
+                    <p><strong>📍 Đường dẫn:</strong> thư mục data/</p>
+                    <p><strong>⚠️ Lưu ý:</strong> BẮT BUỘC load trước khi chơi game!</p>
+                </div>
+                <div class="csv-actions">
+                    <button onclick="loadQuestionsFromCSV(true)" class="btn btn-primary btn-large">
+                        <i class="fas fa-upload"></i> Load từ CSV
+                    </button>
+                </div>
+
+                <h3><i class="fas fa-database"></i> Quản Lý Dữ Liệu</h3>
+                <div class="storage-info">
+                    <p>Dữ liệu được lưu tự động trong thư mục <code>db</code></p>
+                    <p><strong>💡 Thông tin:</strong> Server tự động xử lý việc lưu trữ</p>
+                </div>
+                <div class="storage-actions">
+                    <button onclick="backupOffline()" class="btn btn-info btn-large">
+                        <i class="fas fa-save"></i> Backup Offline
+                    </button>
+                    <button onclick="document.getElementById('restoreFile').click()" class="btn btn-secondary btn-large">
+                        <i class="fas fa-upload"></i> Restore Offline
+                    </button>
+                    <input type="file" id="restoreFile" onchange="restoreOffline(event)" style="display: none;" accept=".json">
+                    <button onclick="clearAllData()" class="btn btn-danger btn-large" style="background: #e74c3c;">
+                        <i class="fas fa-trash-alt"></i> Xóa Tất Cả Dữ Liệu
+                    </button>
+                </div>
+
+                <h3><i class="fas fa-trash"></i> Reset Câu Hỏi</h3>
+                <div class="reset-info">
+                    <p>Chỉ xóa các câu hỏi (và trạng thái "đã dùng") — không ảnh hưởng tới đội, BGK hoặc các dữ liệu khác.</p>
+                </div>
+                <div class="reset-actions">
+                    <button onclick="resetQuestionsOnly()" class="btn btn-warning btn-large">
+                        <i class="fas fa-eraser"></i> Reset Câu Hỏi
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <!-- Team List Screen (Màn hình danh sách đội) -->
+    <div id="teamListScreen" class="screen">
+        <div class="container">
+            <div class="screen-header">
+                <!-- Logo và tên chương trình cho chế độ toàn màn hình -->
+                <div class="fullscreen-logo-section">
+                    <div class="logo">
+                        <img src="logo/logo.jpg" alt="Game Show Logo" class="logo-img" style="width: 50px; height: auto;" onerror="this.style.display='none'">
+                    </div>
+                    <h1 class="animated-title"><span class="title-main">Hội thi duyên dáng xưa và nay</span></h1>
+                </div>
+
+                <h2><i class="fas fa-users-rectangle"></i>Danh Sách Các Đội</h2>
+                <div class="game-controls">
+                    <button onclick="toggleFullscreen()" class="btn btn-success">
+                        <i class="fas fa-expand"></i> Toàn Màn Hình
+                    </button>
+                    <button onclick="showScreen('dashboardScreen')" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Quay lại
+                    </button>
+                    <button onclick="showScreen('gameScreen')" class="btn btn-primary" title="Bộ câu hỏi về Luật Lao động & Luật An toàn - Vệ sinh lao động">
+                        <i class="fas fa-play"></i> Phần 1 (58 câu)
+                    </button>
+                    <button onclick="showScreen('gameScreen2')" class="btn btn-warning" title="Bộ câu hỏi về Luật BHXH & Luật Bình đẳng giới - Phòng chống BLGĐ">
+                        <i class="fas fa-play"></i> Phần 2 (60 câu)
+                    </button>
+                </div>
+            </div>
+
+            <div class="teams-grid" id="teamsGrid">
+                <!-- Danh sách đội sẽ được tạo bằng JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Game Screen -->
+    <div id="gameScreen" class="screen">
+        <div class="container">
+            <div class="screen-header">
+                <!-- Logo và tên chương trình cho chế độ toàn màn hình -->
+                <div class="fullscreen-logo-section">
+                    <div class="logo">
+                        <img src="logo/logo.jpg" alt="Game Show Logo" class="logo-img" style="width: 50px; height: auto;" onerror="this.style.display='none'">
+                    </div>
+                    <h1 class="animated-title"><span class="title-main">Hội thi duyên dáng xưa và nay</span></h1>
+                </div>
+
+                <h2><i class="fas fa-play"></i>Vòng thi 1</h2>
+                <div class="game-controls">
+                    <button onclick="toggleFullscreen()" class="btn btn-success">
+                        <i class="fas fa-expand"></i> Toàn Màn Hình
+                    </button>
+                    <button onclick="showScreen('teamListScreen')" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Quay lại
+                    </button>
+                    <button onclick="showScreen('gameScreen2')" class="btn btn-info">
+                        <i class="fas fa-arrow-right"></i> Chuyển sang Phần 2
+                    </button>
+                </div>
+            </div>
+
+            <div class="grid-titles-container">
+                <div class="grid-title">BỘ CÂU HỎI VỀ LUẬT LAO ĐỘNG & LUẬT AN TOÀN - VỆ SINH LAO ĐỘNG</div>
+            </div>
+
+            <div class="question-grid" id="questionGrid">
+                <!-- 60 ô số sẽ được tạo bằng JavaScript -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Game Screen Part 2 -->
+    <div id="gameScreen2" class="screen">
+        <div class="container">
+            <div class="screen-header">
+                <!-- Logo và tên chương trình cho chế độ toàn màn hình -->
+                <div class="fullscreen-logo-section">
+                    <div class="logo">
+                        <img src="logo/logo.jpg" alt="Game Show Logo" class="logo-img" style="width: 50px; height: auto;" onerror="this.style.display='none'">
+                    </div>
+                    <h1 class="animated-title"><span class="title-main">Hội thi duyên dáng xưa và nay</span></h1>
+                </div>
+
+                <h2><i class="fas fa-play"></i>Vòng Thi 2</h2>
+                <div class="game-controls">
+                    <button onclick="toggleFullscreen()" class="btn btn-success">
+                        <i class="fas fa-expand"></i> Toàn Màn Hình
+                    </button>
+                    <button onclick="showScreen('teamListScreen')" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Quay lại
+                    </button>
+                    <button onclick="showScreen('gameScreen')" class="btn btn-info">
+                        <i class="fas fa-arrow-left"></i> Chuyển về Phần 1
+                    </button>
+                </div>
+            </div>
+
+            <div class="grid-titles-container">
+                <div class="grid-title">BỘ CÂU HỎI VỀ LUẬT BHXH & LUẬT BÌNH ĐẲNG GIỚI – PHÒNG CHỐNG BLGĐ</div>
+            </div>
+
+            <div class="question-grid" id="questionGrid2">
+                <!-- 60 ô số sẽ được tạo bằng JavaScript cho phần 2 -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Final Round Screen -->
+    <div id="finalRound" class="screen">
+        <div class="container">
+            <div class="screen-header">
+                <!-- Logo và tên chương trình cho chế độ toàn màn hình -->
+                <div class="fullscreen-logo-section">
+                    <div class="logo">
+                        <img src="logo/logo.jpg" alt="Game Show Logo" class="logo-img" style="width: 50px; height: auto;" onerror="this.style.display='none'">
+                    </div>
+                    <h1 class="animated-title"><span class="title-main">Hội thi duyên dáng xưa và nay</span></h1>
+                </div>
+
+                <h2 id="finalRoundTitle"><i class="fas fa-question-circle"></i> Vòng Câu Hỏi Phụ</h2>
+                <div class="screen-controls">
+                    <button onclick="toggleFullscreen()" class="btn btn-success">
+                        <i class="fas fa-expand"></i> Toàn Màn Hình
+                    </button>
+                    <button onclick="showScreen('dashboardScreen')" class="btn btn-secondary">
+                        <i class="fas fa-arrow-left"></i> Về Dashboard
+                    </button>
+                </div>
+            </div>
+
+            <div class="final-judges" id="finalJudges">
+                <h3>Chọn Ban Giám Khảo để bắt đầu thử thách:</h3>
+                <div id="judgesGrid">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Image Modal -->
+    <!-- Question Modal (inserted so script.js can find referenced elements) -->
+    <div id="questionModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modalTitle">Câu hỏi</h3>
+                <div class="header-controls">
+                    <button onclick="closeModal(); showScreen('gameScreen2');" class="btn btn-info btn-modal-nav">
+                        <i class="fas fa-arrow-right"></i> Sang Phần 2
+                    </button>
+                    <div class="countdown-circle" id="countdown-timer">20</div>
+                    <button onclick="closeModal()" class="close-btn">&times;</button>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div id="questionDisplay" style="margin-bottom: 0.5rem;"></div>
+
+                <div id="answerOptions"></div>
+
+                <div id="answerDisplay" style="display: none;"></div>
+            </div>
+
+            <div class="modal-footer" id="modalFooter" style="text-align: right; display: none;">
+                <button id="showAnswerBtn" onclick="showAnswer()" class="btn">Hiện đáp án</button>
+            </div>
+            <div class="times-up-popup" id="timesUpPopup">HẾT GIỜ!</div>
+        </div>
+    </div>
+
+    <div id="imageModal" class="modal">
+        <div class="modal-content image-modal-content">
+            <div class="modal-header">
+                <h3 id="imageModalTitle">Xem Ảnh</h3>
+                <button onclick="closeImageModal()" class="close-btn">&times;</button>
+            </div>
+            <div class="modal-body">
+                <img id="fullSizeImage" src="" alt="" style="max-width: 100%; max-height: 80vh; object-fit: contain; border-radius: 8px;">
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p class="credit-text">
+                <i class=""></i> © 2025 Khoa công nghệ thông tin, Đại học Lạc Hồng
+                <!-- | <i class="fas fa-phone"></i> 0946734111 | <i class="fas fa-envelope"></i> nmson@lhu.edu.vn | <i class="fab fa-tiktok"></i> Thầy Sơn chọn Ngành -->
+            </p>
+        </div>
+    </footer>
+
+    <!-- Toast Notification Container -->
+    <div id="toast-container"></div>
+
+    <script src="script.js?t=5"></script>
+</body>
+
+</html>
